@@ -1,0 +1,324 @@
+<SoftwareType>
+  <Name>ARM System-On-A-Chip</Name>
+  <Category>System</Category>
+  <Description>Build System-On-A-Chips for ARM based products!</Description>
+  <Categories>
+    <Category Name="Tablet">
+      <Description>Build an ARM SOC for a tablet.</Description>
+      <Unlock>2005</Unlock>
+      <Popularity>0.8</Popularity>
+      <TimeScale>1.3</TimeScale>
+      <Retention>0.8</Retention>
+      <Iterative>0.1</Iterative>
+      <NameGenerator>names</NameGenerator>
+     </Category>
+     <Category Name="Phone">
+      <Description>Build an ARM SOC for a phone.</Description>
+      <Unlock>2000</Unlock>
+      <Popularity>1</Popularity>
+      <TimeScale>1</TimeScale>
+      <Retention>0.6</Retention>
+      <Iterative>0.1</Iterative>
+      <NameGenerator>names</NameGenerator>
+     </Category>
+     <Category Name="Laptop">
+      <Description>Build an ARM SOC for a laptop.</Description>
+      <Unlock>2010</Unlock>
+      <Popularity>0.9</Popularity>
+      <TimeScale>1.5</TimeScale>
+      <Retention>1</Retention>
+      <Iterative>0.05</Iterative>
+      <NameGenerator>names</NameGenerator>
+     </Category>
+    </Categories>
+    <Random>0</Random>
+    <OSSpecific>FALSE</OSSpecific>
+    <OneClient>FALSE</OneClient>
+    <InHouse>TRUE</InHouse>
+    <NameGenerator>names</NameGenerator>
+    <Features>
+      <Feature Forced="TRUE">
+        <Name>Single Core</Name>
+        <Category>System</Category>
+        <Description>It gets one thing done at a time.</Description>
+        <DevTime>4</DevTime>
+        <Unlock>0</Unlock>
+        <Innovation>3</Innovation>
+        <Usability>1</Usability>
+        <Stability>4</Stability>
+        <CodeArt>1</CodeArt>
+        <SoftwareCategory Category="Tablet">0</SoftwareCategory>
+        <SoftwareCategory Category="Phone">0</SoftwareCategory>
+        <SoftwareCategory Category="Laptop">0</SoftwareCategory>
+       </Feature>
+       <Feature From="Single Core">
+        <Name>Dual Core</Name>
+        <Category>System</Category>
+        <Description>Two things at a time!</Description>
+        <DevTime>5</DevTime>
+        <Unlock>2002</Unlock>
+        <Innovation>4</Innovation>
+        <Usability>2</Usability>
+        <Stability>2</Stability>
+        <CodeArt>1</CodeArt>
+       </Feature>
+       <Feature From="Dual Core">
+        <Name>Tri Core</Name>
+        <Category>System</Category>
+        <Description>Three things at once!</Description>
+        <DevTime>5</DevTime>
+        <Unlock>2004</Unlock>
+        <Innovation>4</Innovation>
+        <Usability>3</Usability>
+        <Stability>2</Stability>
+        <CodeArt>1</CodeArt>
+       </Feature>
+       <Feature From="Tri Core">
+        <Name>Quad Core</Name>
+        <Category>System</Category>
+        <Description>Four things at once?? Madness.</Description>
+        <DevTime>5</DevTime>
+        <Unlock>2007</Unlock>
+        <Innovation>5</Innovation>
+        <Usability>4</Usability>
+        <Stability>2</Stability>
+        <CodeArt>1</CodeArt>
+       </Feature>
+       <Feature From="Quad Core">
+        <Name>Octa Core</Name>
+        <Category>System</Category>
+        <Description>Eight things at once? Are you insane?</Description>
+        <DevTime>6</DevTime>
+        <Unlock>2010</Unlock>
+        <Innovation>5</Innovation>
+        <Usability>5</Usability>
+        <Stability>3</Stability>
+        <CodeArt>1</CodeArt>
+       </Feature>
+	   <Feature Research="Octa Core">
+		<Name>big.LITTLE Architecture</Name>
+		<Category>System</Category>
+		<Description>Saving power whilst offering more peformance? Wow!</Description>
+		<DevTime>4</DevTime>
+		<Unlock>2015</Unlock>
+		<Innovation>4</Innovation>
+		<Stability>4</Stability>
+		<Usability>4</Usability>
+		<CodeArt>1</CodeArt>
+	   </Feature>
+	   <Feature Forced="TRUE">
+		<Name>Basic Video Output Support</Name>
+		<Category>System</Category>
+		<Description>Perfect for simple things, like... calculators</Description>
+		<DevTime>3</DevTime>
+		<Unlock>0</Unlock>
+		<Innovation>1</Innovation>
+		<Stability>1</Stability>
+		<Usability>1</Usability>
+		<CodeArt>0.5</CodeArt>
+		<SoftwareCategory Category="Tablet">0</SoftwareCategory>
+		<SoftwareCategory Category="Phone">0</SoftwareCategory>
+		<SoftwareCategory Category="Laptop">0</SoftwareCategory>
+	   </Feature>
+	   <Feature From="Basic Video Output Support">
+		<Name>240p Video Support</Name>
+		<Category>System</Category>
+		<Description>Perfect for basic screens!</Description>
+		<DevTime>4</DevTime>
+		<Unlock>2003</Unlock>
+		<Innovation>2</Innovation>
+		<Stability>1</Stability>
+		<Usability>2</Usability>
+		<CodeArt>0.7</CodeArt>
+	   </Feature>
+	   <Feature From="240p Video Support">
+		<Name>VGA Video Support</Name>
+		<Category>System</Category>
+		<Description>A perfect standard!</Description>
+		<DevTime>5</DevTime>
+		<Unlock>2005</Unlock>
+		<Innovation>2</Innovation>
+		<Stability>2</Stability>
+		<Usability>3</Usability>
+		<CodeArt>0.7</CodeArt>
+	   </Feature>
+	   <Feature From="VGA Video Support">
+		<Name>HD Video Support</Name>
+		<Category>System</Category>
+		<Description>A retina standard.</Description>
+		<DevTime>6</DevTime>
+		<Unlock>2007</Unlock>
+		<Innovation>3</Innovation>
+		<Stability>2</Stability>
+		<Usability>3</Usability>
+		<CodeArt>0.7</CodeArt>
+	   </Feature>
+	   <Feature From="HD Video Support">
+	    <Name>FHD Video Support</Name>
+		<Category>System</Category>
+		<Description>True retina.</Description>
+		<DevTime>7</DevTime>
+		<Unlock>2010</Unlock>
+		<Innovation>4</Innovation>
+		<Stability>3</Stability>
+		<Usability>3</Usability>
+		<CodeArt>0.5</CodeArt>
+	   </Feature>
+	   <Feature From="FHD Video Support">
+		<Name>QHD Video Support</Name>
+		<Category>System</Category>
+		<Description>Best (VR) Quality</Description>
+		<DevTime>8</DevTime>
+		<Unlock>2015</Unlock>
+		<Innovation>5</Innovation>
+		<Stability>4</Stability>
+		<Usability>4</Usability>
+		<CodeArt>0.6</CodeArt>
+	   </Feature>
+	   <Feature Research="QHD Video Support">
+		<Name>Peformance</Name>
+		<Category>System</Category>
+		<Description>Performance update for your tech!</Description>
+		<DevTime>4</DevTime>
+		<Unlock>2016</Unlock>
+		<Innovation>2</Innovation>
+		<Stability>1</Stability>
+		<Usability>2</Usability>
+		<CodeArt>0.3</CodeArt>
+		<SoftwareCategory Category="Tablet">2016</SoftwareCategory>
+		<SoftwareCategory Category="Phone">2016</SoftwareCategory>
+		<SoftwareCategory Category="Laptop">2016</SoftwareCategory>
+	   </Feature>
+       <Feature Forced="TRUE">
+        <Name>LPDDR Support</Name>
+        <Category>System</Category>
+        <Description>Low powered DDR! It's a start atleast...</Description>
+        <DevTime>2</DevTime>
+        <Unlock>0</Unlock>
+        <Innovation>1</Innovation>
+        <Stability>1</Stability>
+        <Usability>1</Usability>
+        <CodeArt>1</CodeArt>
+        <SoftwareCategory Category="Tablet">0</SoftwareCategory>
+        <SoftwareCategory Category="Phone">0</SoftwareCategory>
+        <SoftwareCategory Category="Laptop">0</SoftwareCategory>
+		<Dependency Software="Low-Powered Memory">LPDDR</Dependency>
+       </Feature>
+       <Feature From="LPDDR Support">
+        <Name>LPDDR2 Support</Name>
+        <Category>System</Category>
+        <Description>Low powered DDR2! Alright I guess...</Description>
+        <DevTime>2</DevTime>
+        <Unlock>2005</Unlock>
+        <Innovation>2</Innovation>
+        <Stability>2</Stability>
+        <Usability>2</Usability>
+        <CodeArt>1</CodeArt>
+		<Dependency Software="Low-Powered Memory">LPDDR2</Dependency>
+       </Feature>
+       <Feature From="LPDDR2 Support">
+        <Name>LPDDR3 Support</Name>
+        <Category>System</Category>
+        <Description>Low powered DDR3! Damn standards...</Description>
+        <DevTime>3</DevTime>
+        <Unlock>2010</Unlock>
+        <Innovation>3</Innovation>
+        <Stability>3</Stability>
+        <Usability>3</Usability>
+        <CodeArt>1</CodeArt>
+		<Dependency Software="Low-Powered Memory">LPDDR3</Dependency>
+       </Feature>
+       <Feature From="LPDDR3 Support">
+        <Name>LPDDR4 Support</Name>
+        <Category>System</Category>
+        <Description>Low powered DDR4! Wow that speed...</Description>
+        <DevTime>4</DevTime>
+        <Unlock>2014</Unlock>
+        <Innovation>4</Innovation>
+        <Stability>4</Stability>
+        <Usability>4</Usability>
+        <CodeArt>1</CodeArt>
+		<Dependency Software="Low-Powered Memory">LPDDR4</Dependency>
+       </Feature>
+       <Feature Vital="TRUE">
+        <Name>QuickCharge Technology</Name>
+        <Category>System</Category>
+        <Description>Charge your phone x% in x minutes!</Description>
+        <Unlock>2007</Unlock>
+        <DevTime>2</DevTime>
+        <Innovation>1</Innovation>
+        <Usability>1</Usability>
+        <Stability>1</Stability>
+        <CodeArt>1</CodeArt>
+        <SoftwareCategory Category="Tablet">0</SoftwareCategory>
+        <SoftwareCategory Category="Phone">0</SoftwareCategory>
+       </Feature>
+       <Feature Research="QuickCharge Technology">
+        <Name>SnapCharge Technology</Name>
+        <Category>System</Category>
+        <Description>Even faster than ever before!</Description>
+        <Unlock>2009</Unlock>
+        <DevTime>3</DevTime>
+        <Innovation>2</Innovation>
+        <Usability>2</Usability>
+        <Stability>2</Stability>
+        <CodeArt>1</CodeArt>
+        <SoftwareCategory Category="Tablet">2009</SoftwareCategory>
+        <SoftwareCategory Category="Phone">2009</SoftwareCategory>
+       </Feature>
+	   <Feature From="QuickCharge Technology">
+		<Name>Dash Charge</Name>
+		<Category>System</Category>
+		<Description>Charge your phone up to 40% in 15 minutes!</Description>
+		<Unlock>2013</Unlock>
+		<DevTime>5</DevTime>
+		<Innovation>2</Innovation>
+		<Usability>3</Usability>
+		<Stability>3</Stability>
+		<CodeArt>1</CodeArt>
+		<SoftwareCategory Category="Tablet">2013</SoftwareCategory>
+		<SoftwareCategory Category="Phone">2014</SoftwareCategory>
+	   </Feature>
+	   <Feature Research="Dash Charge">
+		<Name>Dash Charge Extreme</Name>
+		<Category>System</Category>
+		<Description>Charge your phone up to 60% in 15 minutes!</Description>
+		<Unlock>2016</Unlock>
+		<DevTime>6</DevTime>
+		<Innovation>3</Innovation>
+		<Usability>3</Usability>
+		<Stability>4</Stability>
+		<CodeArt>1</CodeArt>
+		<SoftwareCategory Category="Tablet">2017</SoftwareCategory>
+		<SoftwareCategory Category="Phone">2016</SoftwareCategory>
+	   </Feature>
+       <Feature>
+        <Name>Power Efficiency</Name>
+        <Category>System</Category>
+        <Description>It's not very mobile if the battery dries up instantly...</Description>
+        <Unlock>2005</Unlock>
+        <DevTime>2</DevTime>
+        <Innovation>1</Innovation>
+        <Usability>2</Usability>
+        <Stability>4</Stability>
+        <CodeArt>1</CodeArt>
+        <SoftwareCategory Category="Tablet">0</SoftwareCategory>
+        <SoftwareCategory Category="Phone">0</SoftwareCategory>
+        <SoftwareCategory Category="Laptop">0</SoftwareCategory>
+       </Feature>
+       <Feature Research="Power Efficiency">
+        <Name>More Power Efficient</Name>
+        <Category>System</Category>
+        <Description>Have even more battery left at the end of the day!</Description>
+        <Unlock>2009</Unlock>
+        <DevTime>3</DevTime>
+        <Innovation>2</Innovation>
+        <Usability>3</Usability>
+        <Stability>3</Stability>
+        <CodeArt>1</CodeArt>
+        <SoftwareCategory Category="Tablet">2009</SoftwareCategory>
+        <SoftwareCategory Category="Phone">2009</SoftwareCategory>
+        <SoftwareCategory Category="Laptop">2009</SoftwareCategory>
+       </Feature>
+     </Features>
+</SoftwareType>

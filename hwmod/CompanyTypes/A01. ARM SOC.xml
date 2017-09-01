@@ -1,0 +1,9 @@
+<CompanyType>
+	<Specialization>ARM SOC</Specialization>
+	<PerYear>0.2</PerYear>
+	<Min>1</Min>
+	<Max>1</Max>
+	<Types>
+		<Type Software="ARM System-On-A-Chip">0.3</Type>
+	</Types>
+</CompanyType>

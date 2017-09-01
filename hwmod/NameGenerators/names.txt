@@ -10,10 +10,15 @@ Lorn
 Comp
 Bio
 Power
+Sangsung
+Pear
+Qual
+Drag
+
 -abase(base2,end,go)
 tek 
 us 
- 
+on 
  
 -base2(end,go)
 A
