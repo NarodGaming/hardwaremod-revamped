@@ -60,6 +60,7 @@
 	  <Usability>3</Usability>
 	  <Stability>3</Stability>
 	  <CodeArt>0</CodeArt>
+	  <SoftwareCategory Category="Laptop">0</SoftwareCategory>
 	</Feature>
     <Feature Vital="TRUE">
       <Name>Audio</Name>

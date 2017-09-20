@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="arm-soc-spec">ARM SOC</string>
+  <string name="arm-soc-soft">ARM System-On-A-Chip</string>
+</resources>

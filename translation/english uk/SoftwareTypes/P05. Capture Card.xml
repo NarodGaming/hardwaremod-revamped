@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="capturecard">Capture Card</string>
+  <string name="capturecard-desc">Capture a PC!</string>
+  <string name="default">Default</string>
+  <string name="default-desc">Regular.</string>
+  <string name="pci">PCI Interface</string>
+  <string name="pci-desc">It plugs into a PCI Slot!</string>
+  <string name="pcie">PCI Express</string>
+  <string name="pcie-desc">PCI Express is much faster!</string>
+  <string name="sdres">SD Resolution</string>
+  <string name="sdres-desc">Standard resolution, the one you hate on youtube.</string>
+  <string name="hdres">720p HD</string>
+  <string name="hdres-desc">"High" definition, not so high today...</string>
+  <string name="fhdires">1080i HD</string>
+  <string name="fhdires-desc">The poormans FHD.</string>
+  <string name="fhdres">1080p HD</string>
+  <string name="fhdres-desc">Because 1080i is for the poor.</string>
+  <string name="4kres">2160p HD</string>
+  <string name="4kres-desc">For all of your 4k* needs. *Not actually 4k</string>
+  <string name="fps">Framerate</string>
+  <string name="fps-desc">I mean, it's moving. Right?</string>
+  <string name="24fps">24FPS</string>
+  <string name="24fps-desc">Gives you the cinematic feel.</string>
+  <string name="30fps">30FPS</string>
+  <string name="30fps-desc">The ultimate standard.</string>
+  <string name="50fps">50FPS</string>
+  <string name="50fps-desc">Backwards compatible with glorious 24FPS</string>
+  <string name="60fps">60FPS</string>
+  <string name="60fps-desc">A direct upgrade to smooth motion, still backwards compatible wtih 30fps.</string>
+
+</resources>

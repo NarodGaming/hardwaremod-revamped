@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="mobphone">Mobile Phone</string>
+  <string name="mobphone-desc">Make a mobile phone to sell to the masses!</string>
+  <string name="default">Default</string>
+  <string name="default-desc">A phone. What more could you want.</string>
+  <string name="phonecase">Phone Casing</string>
+  <string name="phonecase-desc">Well, what else are you going to put the parts in?!</string>
+  <string name="phonecasec">Phone Casing with Camera Cut-Out</string>
+  <string name="phonecasec-desc">Allows you to add in a camera.</string>
+  <string name="speakeramp">Speaker Amplifier</string>
+  <string name="speakeramp-desc">You'll need these for sound. Isn't it obvious? No? Ok.</string>
+  <string name="speaker">Speaker</string>
+  <string name="speaker-desc">Would make sense to have these with the amp? No? It's your phone not mine...</string>
+  <string name="sspeaker">Stereo Speakers</string>
+  <string name="sspeaker-desc">Two speakers are better than one. (in theory)</string>
+  <string name="jack">3.5mm Jack</string>
+  <string name="jack-desc">For listening to music through headphones (not included)</string>
+  <string name="combijack">3.5mm Combi-Jack</string>
+  <string name="combijack-desc">Plug headphones and a microphone into the same port, at the same time!</string>
+  <string name="mic">Microphone</string>
+  <string name="mic-desc">For making calls, you know, the point of a phone? Oh forget it.</string>
+  <string name="mcdisplay">Monochrome Display</string>
+  <string name="mcdisplay-desc">A basic monochrome screen, two colours, low resolution.</string>
+  <string name="tftdisplay">LCD TFT Display</string>
+  <string name="tftdisplay-desc">Yay for colours, its a shame theres about 2 degrees of viewing angles!</string>
+  <string name="tfttdisplay">LCD TFT TouchDisplay</string>
+  <string name="tfttdisplay-desc">No advancement in the same awful display, but you can poke it now!</string>
+  <string name="ipsdisplay">IPS TouchDisplay</string>
+  <string name="ipsdisplay-desc">Touchscreen and a display that isn't absoultely dreadful. Madness.</string>
+  <string name="armsoc-desc">The brains of the phone. The thing that does it all. 42.</string>
+
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="cpu">Processor</string>
+  <string name="cpu-desc">The brain of every computer.</string>
+  <string name="default">Default</string>
+  <string name="default-desc">Create a central processing unit!</string>
+  <string name="mathunit">Math Unit</string>
+  <string name="mathunit-desc">The Main Brain. Does things like finding "X" from "X=42^(1-4+9)</string>
+  <string name="divider">Divider</string>
+  <string name="divider-desc">Division without the thinking</string>
+  <string name="apu">APU</string>
+  <string name="apu-desc">An accelerrated processing unit, glueing the graphics chip onto the cpu.</string>
+  <string name="pmath">Parallel Math</string>
+  <string name="pmath-desc">What if you could do two things at once, on one core?</string>
+  <string name="cunit">Control Unit</string>
+  <string name="cunit-desc">The main controlling unit of the CPU.</string>
+  <string name="hthreading">Hyper-threading</string>
+  <string name="hthreading-desc">Cheat out consumers by faking them cores. Wooo!</string>
+  <string name="2core">Dual Core</string>
+  <string name="2core-desc">Double those cores.</string>
+  <string name="4core">Quad Core</string>
+  <string name="4core-desc">... and again?</string>
+  <string name="8core">Octo Core</string>
+  <string name="8core-desc">...... again?!</string>
+  <string name="heatspreaders">Heat Spreaders</string>
+  <string name="heatspreaders-desc">To prevent your CPU from replacing your grill</string>
+  <string name="heatpipes">Heat Pipes</string>
+  <string name="heatpipes-desc">Probably gives the most heat dissapation</string>
+  <string name="heatfins">Heat Fins</string>
+  <string name="heatfins-desc">Most definitely gives the most heat dissapation.</string>
+  <string name="tpaste">Thermal Paste</string>
+  <string name="tpaste-desc">Help to transfer heat from CPU to the cooler</string>
+  <string name="substrate">Substrate</string>
+  <string name="substrate-desc">Move the heat on. Faster.</string>
+  <string name="apaste">Arctic Paste</string>
+  <string name="apaste-desc">Move the heat on. Fastest.</string>
+  <string name="lunit">Logic Unit</string>
+  <string name="lunit-desc">The Other Main Brain. Does things like comparing two numbers</string>
+  <string name="predicter">Predicter</string>
+  <string name="predicter-desc">Can be used to improve logic</string>
+  <string name="fetcher">Fetcher</string>
+  <string name="fetcher-desc">Hugely speeds up the fetching time from registers.</string>
+  <string name="registers">Registers</string>
+  <string name="registers-desc">Store numbers quickly.</string>
+  <string name="cache">Cache</string>
+  <string name="cache-desc">Caches hugely reduce the time needed to access memory.</string>
+  <string name="2level">2nd Level</string>
+  <string name="2level-desc">Even faster than 1st Level cache, but laggier.</string>
+  <string name="3level">3rd Level</string>
+  <string name="3level-desc">Increasing speeds once again.</string>
+  <string name="4level">On-Chip Memory</string>
+  <string name="4level-desc">Integrates the 3rd level cache directly onto the chip, reducing the access time dramatically,</string>
+  <string name="peff">Power Efficiency</string>
+  <string name="peff-desc">Use less power! Save the planet!</string>
+  <string name="25peff">25%</string>
+  <string name="25peff-desc">One giant leap in... making things smaller?  Using smaller and smaller components has net a considerable power and efficiency increase.</string>
+  <string name="35peff">35%</string>
+  <string name="35peff-desc">Yes, it really did take you four years to figure out how to save even ten percent more power on the chips themselves, you didn't want to sacrifice performance.</string>
+  <string name="42peff">42%</string>
+  <string name="42peff-desc">A crazy scientist named "Bob" in the depths of your Research and Development dept. thinks he's solved the universe itself... or at least 7% more power savings.</string>
+
+</resources>

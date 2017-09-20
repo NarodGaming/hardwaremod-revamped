@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="processor-spec">Processors</string>
+  <string name="processor-soft">Processor</string>
+</resources>

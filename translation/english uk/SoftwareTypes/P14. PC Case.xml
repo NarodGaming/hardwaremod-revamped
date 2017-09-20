@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="case">Case</string>
+  <string name="case-desc">Computers need a shell too.</string>
+  <string name="pctower">PC Tower</string>
+  <string name="pctower-desc">Individuals love to pimp out their case, and are generally only interested in what it looks like.</string>
+  <string name="rackserver">Rack Server</string>
+  <string name="rackserver-desc">Server cases are robust and often include multiple of each components to minimize the impact of failure and maintenance.</string>
+  <string name="laptop">Laptop</string>
+  <string name="laptop-desc">A laptop shell</string>
+  <string name="fpanel">Front Panel</string>
+  <string name="fpanel-desc">That thing you smash with your foot trying to hit the "ON" button</string>
+  <string name="portab">Portability</string>
+  <string name="portab-desc">Well, if it ain't portable, it ain't a laptop</string>
+  <string name="audio">Audio</string>
+  <string name="audio-desc">Audio ports at the front of the computer are much more accessible.</string>
+  <string name="usb">Universal Bus</string>
+  <string name="usb-desc">Universal Bus ports at the front of a computer...</string>
+  <string name="usbc">USB Type C</string>
+  <string name="usbc-desc">Those fancy new reversible ports on the front!</string>
+  <string name="rpanel">Rear Panel</string>
+  <string name="rpanel-desc">That thing you plug into the things like power cord and other things</string>
+  <string name="spanel">Side Panels</string>
+  <string name="spanel-desc">The thing that stops you electrocuting yourself using your PC.</string>
+  <string name="swpanel">Side Panel Window</string>
+  <string name="swpanel-desc">Wow! Now you can see all the cheap parts you bought for a better case!</string>
+  <string name="rgbpanel">RGB Lighting</string>
+  <string name="rgbpanel-desc">Wow! Now you can even illuminate your cheap, disgusting parts! YAY!</string>
+  <string name="fixedrail">Fixed Rails</string>
+  <string name="fixedrail-desc">All servers need a way to mount them to the wall.  Rails are the easiest way to do this, as it allows for maintenance as well.</string>
+  <string name="bakerrail">Baker Rails</string>
+  <string name="bakerail-desc">"Baker" rails are ones that can be pulled out like a drawer, and be angled by up to 45 degrees to allow for working on a server while it's still plugged in.</string>
+  <string name="tdial">Temp. Dials</string>
+  <string name="tdial-desc">Helps for overclockers, they get to see the temperature of various system components from the exterior of the case.</string>
+
+</resources>

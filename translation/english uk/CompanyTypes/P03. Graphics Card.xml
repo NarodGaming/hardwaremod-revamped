@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="graphicscard-spec">Graphics Cards</string>
+  <string name="graphicscard-soft">Graphics Card</string>
+  <string name="capturecard-soft">Capture Card</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="lpddr">Low-Powered Memory</string>
+  <string name="lpddr-desc">Create RAM for ARM based products!</string>
+  <string name="default">Default</string>
+  <string name="meminterface">Memory Interface</string>
+  <string name="meminterface-desc">Allows the RAM to interface with the motherboard</string>
+  <string name="dimminterace">DIMM Interfacing</string>
+  <string name="dimminterface-desc">A easy standard, reduces time needed.</string>
+  <string name="solderinterface">Soldered on RAM</string>
+  <string name="solderinterface-desc">Even easier! Solder it to the motherboard!</string>
+  <string name="lpddr1-desc">It supports LPDDR1 motherboards. Nothing special really.</string>
+  <string name="lpddr2-desc">LPDDR2! Improving speed, power and size!</string>
+  <string name="lpddr3-desc">LPDDR3! To the mainstream...</string>
+  <string name="lpddr4-desc">LPDDR4! Speed, effciency, size, all in one.</string>
+  <string name="batmode">Battery Mode</string>
+  <string name="batmode-desc">A Standard mode, underclock the RAM to save battery!</string>
+  <string name="stanspeed">Standard Speed</string>
+  <string name="stanspeed-desc">A entry mode, standard ram speed for improved peformance.</string>
+  <string name="regspeed">Regular Peformance</string>
+  <string name="regspeed-desc">Push the RAM slightly further, get extra performance for games.</string>
+  <string name="racespeed">Race Peformance</string>
+  <string name="racespeed-desc">Draw extra voltage for safe overclocking.</string>
+  <string name="xmpspeed">XMP Profiling</string>
+  <string name="xmpspeed-desc">Safely push alot more Mhz with no extra voltage!</string>
+  <string name="xmp2speed">XMP 2.0</string>
+  <string name="xmpspeed2-desc">Maximum peformance!</string>
+
+
+</resources>

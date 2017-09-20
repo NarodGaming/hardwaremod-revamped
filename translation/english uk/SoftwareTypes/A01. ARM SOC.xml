@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="arm-soc">ARM System-On-A-Chip</string>
+  <string name="arm-soc-desc">Build System-On-A-Chips for ARM based products!</string>
+  <string name="tablet">Tablet</string>
+  <string name="tablet-desc">Build an ARM SOC for a tablet.</string>
+  <string name="phone">Phone</string>
+  <string name="phone-desc">Build an ARM SOC for a phone.</string>
+  <string name="laptop">Laptop</string>
+  <string name="laptop-desc">Build an ARM SOC for a laptop.</string>
+  <string name="core-1">Single Core</string>
+  <string name="core-1-desc">It gets one thing done at a time.</string>
+  <string name="core-2">Dual Core</string>
+  <string name="core-2-desc">Two things at a time!</string>
+  <string name="core-3">Tri Core</string>
+  <string name="core-3-desc">Three things at once!</string>
+  <string name="core-4">Quad Core</string>
+  <string name="core-4-desc">Four things at once?? Madness.</string>
+  <string name="core-8">Octa Core</string>
+  <string name="core-8-desc">Eight things at once? Are you insane?</string>
+  <string name="biglittle">big.LITTLE Architecture</string>
+  <string name="biglittle-desc">Saving power whilst offering more performance? Wow!</string>
+  <string name="bvos">Basic Video Output Support</string>
+  <string name="bvos-desc">Perfect for simple things, like... calculators</string>
+  <string name="potato">240p Video Support</string>
+  <string name="potato-desc">Perfect for basic screens!</string>
+  <string name="vga">VGA Video Support</string>
+  <string name="vga-desc">A perfect standard!</string>
+  <string name="hd">HD Video Support</string>
+  <string name="hd-desc">A retina standard.</string>
+  <string name="fhd">FHD Video Support</string>
+  <string name="fhd-desc">True retina.</string>
+  <string name="qhd">QHD Video Support</string>
+  <string name="qhd-desc">Best (VR) Quality</string>
+  <string name="performance">Performance</string>
+  <string name="performance-desc">Performance update for your tech!</string>
+  <string name="lpddr">LPDDR Support</string>
+  <string name="lpddr-desc">Low powered DDR! It's a start atleast...</string>
+  <string name="lpddr2">LPDDR2 Support</string>
+  <string name="lpddr2-desc">Low powered DDR2! Alright I guess...</string>
+  <string name="lpddr3">LPDDR3 Support</string>
+  <string name="lpddr3-desc">Low powered DDR3! Damn standards...</string>
+  <string name="lpddr4">LPDDR4 Support</string>
+  <string name="lpddr4-desc">Low powered DDR4! Wow that speed...</string>
+  <string name="quickcharge">QuickCharge Technology</string>
+  <string name="quickcharge-desc">Charge your phone x% in x minutes!</string>
+  <string name="snapcharge">SnapCharge Technology</string>
+  <string name="snapcharge-desc">Even faster than ever before!</string>
+  <string name="dashcharge">Dash Charge</string>
+  <string name="dashcharge-desc">Charge your phone up to 40% in 15 minutes!</string>
+  <string name="dashcharge-extreme">Dash Charge Extreme</string>
+  <string name="dashcharge-extreme-desc">Charge your phone up to 60% in 15 minutes!</string>
+  <string name="powereff">Power Efficiency</string>
+  <string name="powereff-desc">It's not very mobile if the battery dries up instantly...</string>
+  <string name="powereff-more">More Power Efficient</string>
+  <string name="powereff-more-desc">Have even more battery left at the end of the day!</string>
+
+</resources>
