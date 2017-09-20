@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="3" original="/SoftwareTypes/A01. ARM SOC.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="48" identifier="fa3578e237140d2212d6c2907fd84758" approved="yes">
+        <source>ARM System-On-A-Chip</source>
+        <target>Σύστημα-Σε-Τσιπ (ΣΣΤ) ARM (ΑΣΕR)</target>
+        <note>Context: arm-soc</note>
+      </trans-unit>
+      <trans-unit id="49" identifier="de7f67c581b4632d1ce3bf4f3081c20c" approved="yes">
+        <source>Build System-On-A-Chips for ARM based products!</source>
+        <target>Φτιάξτε ΣΣΤ (SOC) στα προϊόντα που είναι βασισμένα σε ARM (αρχιτεκτονική συνόλου εντολών RISC)!</target>
+        <note>Context: arm-soc-desc</note>
+      </trans-unit>
+      <trans-unit id="50" identifier="c4e0ba5422383082417c5f96ab121575" approved="yes">
+        <source>Tablet</source>
+        <target>Τάμπλετ</target>
+        <note>Context: tablet</note>
+      </trans-unit>
+      <trans-unit id="51" identifier="32732fc6e7110cfacbf1c9d321fcbed2" approved="yes">
+        <source>Build an ARM SOC for a tablet.</source>
+        <target>Φτιάξτε ένα ΣΣΤ (SOC) ΑΣΕR (ARM) για ένα τάμπλετ.</target>
+        <note>Context: tablet-desc</note>
+      </trans-unit>
+      <trans-unit id="52" identifier="f7a42fe7211f98ac7a60a285ac3a9e87" approved="yes">
+        <source>Phone</source>
+        <target>Τηλέφωνο</target>
+        <note>Context: phone</note>
+      </trans-unit>
+      <trans-unit id="53" identifier="78ebabead6a6ac46628cd8006855f795" approved="yes">
+        <source>Build an ARM SOC for a phone.</source>
+        <target>Φτιάξτε ένα ΣΣΤ (SOC) ΑΣΕR (ARM) για ένα τηλέφωνο.</target>
+        <note>Context: phone-desc</note>
+      </trans-unit>
+      <trans-unit id="54" identifier="312f91285e048e09bb4aefef23627994" approved="yes">
+        <source>Laptop</source>
+        <target>Λάπτοπ</target>
+        <note>Context: laptop</note>
+      </trans-unit>
+      <trans-unit id="55" identifier="91ee3b29ebd54a20ae790f6403cb73fe" approved="yes">
+        <source>Build an ARM SOC for a laptop.</source>
+        <target>Φτιάξτε ένα ΣΣΤ (SOC) ΑΣΕR (ARM) για ένα λάπτοπ.</target>
+        <note>Context: laptop-desc</note>
+      </trans-unit>
+      <trans-unit id="56" identifier="fd31b63ede0a9708a36b625a9e734f92" approved="yes">
+        <source>Single Core</source>
+        <target>Μονο-πύρηνο</target>
+        <note>Context: core-1</note>
+      </trans-unit>
+      <trans-unit id="57" identifier="81f854975d3b29c309f5ef825ebed8cb" approved="yes">
+        <source>It gets one thing done at a time.</source>
+        <target>Τελειώνει ένα πράγμα κάθε φορά.</target>
+        <note>Context: core-1-desc</note>
+      </trans-unit>
+      <trans-unit id="58" identifier="6068951d7c78bebe356c11c8e938cea3" approved="yes">
+        <source>Dual Core</source>
+        <target>Διπλο-πύρηνο</target>
+        <note>Context: core-2</note>
+      </trans-unit>
+      <trans-unit id="59" identifier="412cf98ca8f30225e1b09826ef67af70" approved="yes">
+        <source>Two things at a time!</source>
+        <target>Δύο πράγματα ταυτόχρονα!</target>
+        <note>Context: core-2-desc</note>
+      </trans-unit>
+      <trans-unit id="60" identifier="87c88f0697b6f9fda4028a8e13bbb852" approved="yes">
+        <source>Tri Core</source>
+        <target>Τρι-πύρηνο</target>
+        <note>Context: core-3</note>
+      </trans-unit>
+      <trans-unit id="61" identifier="7ed659333b5237674304091193411cec" approved="yes">
+        <source>Three things at once!</source>
+        <target>Τρία πράγματα ταυτόχρονα!</target>
+        <note>Context: core-3-desc</note>
+      </trans-unit>
+      <trans-unit id="62" identifier="44dae5c11c4a87841066a2819b70a7f4" approved="yes">
+        <source>Quad Core</source>
+        <target>Τετρα-πύρηνο</target>
+        <note>Context: core-4</note>
+      </trans-unit>
+      <trans-unit id="63" identifier="04f9873a86dddd55dc70e4f5bd8cc333" approved="yes">
+        <source>Four things at once?? Madness.</source>
+        <target>Τέσσερα πράγματα ταυτόχρονα; Τρέλα.</target>
+        <note>Context: core-4-desc</note>
+      </trans-unit>
+      <trans-unit id="64" identifier="79a4cd90216823e582475f3bbb4df2bc" approved="yes">
+        <source>Octa Core</source>
+        <target>Οκτα-πύρηνο</target>
+        <note>Context: core-8</note>
+      </trans-unit>
+      <trans-unit id="65" identifier="1d2c048f7cc6371a632da53b643dfb07" approved="yes">
+        <source>Eight things at once? Are you insane?</source>
+        <target>Οκτώ πράγματα ταυτόχρονα; Είσαι τρελός;</target>
+        <note>Context: core-8-desc</note>
+      </trans-unit>
+      <trans-unit id="66" identifier="376ffe4e25da52842782c6eded5175d9" approved="yes">
+        <source>big.LITTLE Architecture</source>
+        <target>μεγάλη.ΜΙΚΡΗ Αρχιτεκτονική</target>
+        <note>Context: biglittle</note>
+      </trans-unit>
+      <trans-unit id="67" identifier="50b6d94fb443a9afd0aa45c20908fd85" approved="yes">
+        <source>Saving power whilst offering more performance? Wow!</source>
+        <target>Εξοικονόμηση ενέργειας, ενώ προσφέρει περισσότερη απόδοση; Πω πω!</target>
+        <note>Context: biglittle-desc</note>
+      </trans-unit>
+      <trans-unit id="68" identifier="96a721c4dbfbcd4955ab4aa36093b4fc" approved="yes">
+        <source>Basic Video Output Support</source>
+        <target>Υποστήριξη Βασικής Εξόδου Βίντεο</target>
+        <note>Context: bvos</note>
+      </trans-unit>
+      <trans-unit id="69" identifier="39b4459f486da45fcdfca3142745dad2" approved="yes">
+        <source>Perfect for simple things, like... calculators</source>
+        <target>Ιδανικό για απλά πράγματα, όπως... αριθμομηχανές</target>
+        <note>Context: bvos-desc</note>
+      </trans-unit>
+      <trans-unit id="70" identifier="8ee2027983915ec78acc45027d874316" approved="yes">
+        <source>240p Video Support</source>
+        <target>Υποστήριξη 240p βίντεο</target>
+        <note>Context: potato</note>
+      </trans-unit>
+      <trans-unit id="71" identifier="76034d9f3bd230230eb9ae8182c6bd44" approved="yes">
+        <source>Perfect for basic screens!</source>
+        <target>Ιδανικό για βασικές οθόνες!</target>
+        <note>Context: potato-desc</note>
+      </trans-unit>
+      <trans-unit id="72" identifier="ba0ffa371333a70be28c4071c6e65208" approved="yes">
+        <source>VGA Video Support</source>
+        <target>Υποστήριξη βίντεο VGA</target>
+        <note>Context: vga</note>
+      </trans-unit>
+      <trans-unit id="73" identifier="6f6661b08c722f9ceba73e432ce8ffaa" approved="yes">
+        <source>A perfect standard!</source>
+        <target>Ένα τέλειο πρότυπο!</target>
+        <note>Context: vga-desc</note>
+      </trans-unit>
+      <trans-unit id="74" identifier="b25ffa68ad761f8578cc61700c0140ed" approved="yes">
+        <source>HD Video Support</source>
+        <target>Υποστήριξη HD βίντεο</target>
+        <note>Context: hd</note>
+      </trans-unit>
+      <trans-unit id="75" identifier="dd676f1f7c20184c023c8d86ab861f56" approved="yes">
+        <source>A retina standard.</source>
+        <target>Ένα πρότυπο για τα μάτια μου.</target>
+        <note>Context: hd-desc</note>
+      </trans-unit>
+      <trans-unit id="76" identifier="215c5a2c32636de5d22c71573ea796b8" approved="yes">
+        <source>FHD Video Support</source>
+        <target>Υποστήριξη βίντεο FHD</target>
+        <note>Context: fhd</note>
+      </trans-unit>
+      <trans-unit id="77" identifier="0593ceb2165e3a7823502e6c3f73153d" approved="yes">
+        <source>True retina.</source>
+        <target>Πραγματικά ένα πρότυπο για τα μάτια μου.</target>
+        <note>Context: fhd-desc</note>
+      </trans-unit>
+      <trans-unit id="78" identifier="a46dea1a656ed482bbcd480eb7a7fc5d" approved="yes">
+        <source>QHD Video Support</source>
+        <target>Υποστήριξη QHD βίντεο</target>
+        <note>Context: qhd</note>
+      </trans-unit>
+      <trans-unit id="79" identifier="4cc31d7a4c42a17010751ad373240e25" approved="yes">
+        <source>Best (VR) Quality</source>
+        <target>Καλύτερη ποιότητα (VR)</target>
+        <note>Context: qhd-desc</note>
+      </trans-unit>
+      <trans-unit id="80" identifier="c05f6c233521207f6fe311afef550c3c" approved="yes">
+        <source>Performance</source>
+        <target>Απόδοση</target>
+        <note>Context: performance</note>
+      </trans-unit>
+      <trans-unit id="81" identifier="e7981d15124bcc96c9c34d3a97b83709" approved="yes">
+        <source>Performance update for your tech!</source>
+        <target>Ενημέρωση επίδοσης για την τεχνολογία σας!</target>
+        <note>Context: performance-desc</note>
+      </trans-unit>
+      <trans-unit id="82" identifier="f47215569aad42c1cda689b48547decf" approved="yes">
+        <source>LPDDR Support</source>
+        <target>Υποστήριξη LPDDR</target>
+        <note>Context: lpddr</note>
+      </trans-unit>
+      <trans-unit id="83" identifier="13f22dacec2c8c1bdcb41052029080f1" approved="yes">
+        <source>Low powered DDR! It's a start atleast...</source>
+        <target>Χαμηλή τροφοδότηση DDR! Είναι μια αρχή τουλάχιστον...</target>
+        <note>Context: lpddr-desc</note>
+      </trans-unit>
+      <trans-unit id="84" identifier="1703b569de9d5977ff74fb5087d9c130" approved="yes">
+        <source>LPDDR2 Support</source>
+        <target>Υποστήριξη LPDDR2</target>
+        <note>Context: lpddr2</note>
+      </trans-unit>
+      <trans-unit id="85" identifier="3cbb5fe29d229245ce4c7ad6fe18a9b2" approved="yes">
+        <source>Low powered DDR2! Alright I guess...</source>
+        <target>Χαμηλή τροφοδοσία DDR2! Εντάξει υποθέτω...</target>
+        <note>Context: lpddr2-desc</note>
+      </trans-unit>
+      <trans-unit id="86" identifier="5f9874dff9646d519b6a18570b7cce10" approved="yes">
+        <source>LPDDR3 Support</source>
+        <target>Υποστήριξη LPDDR3</target>
+        <note>Context: lpddr3</note>
+      </trans-unit>
+      <trans-unit id="87" identifier="8c65c425da4975d96ad8f7996a1f2b2e" approved="yes">
+        <source>Low powered DDR3! Damn standards...</source>
+        <target>Χαμηλή τροφοδοσία DDR3! Καταραμένο πρότυπο...</target>
+        <note>Context: lpddr3-desc</note>
+      </trans-unit>
+      <trans-unit id="88" identifier="a9461909b3c2e4dd679b7cff28d58fba" approved="yes">
+        <source>LPDDR4 Support</source>
+        <target>Υποστήριξη LPDDR4</target>
+        <note>Context: lpddr4</note>
+      </trans-unit>
+      <trans-unit id="89" identifier="e3bcbafb9ddaca38efe545ddf7b4e39c" approved="yes">
+        <source>Low powered DDR4! Wow that speed...</source>
+        <target>Χαμηλή τροφοδοσία DDR4! Πω Πω αυτή η ταχύτητα...</target>
+        <note>Context: lpddr4-desc</note>
+      </trans-unit>
+      <trans-unit id="90" identifier="399131aaf353abb14801a98ea8b65824" approved="yes">
+        <source>QuickCharge Technology</source>
+        <target>Τεχνολογία Ταχείας Φόρτισης</target>
+        <note>Context: quickcharge</note>
+      </trans-unit>
+      <trans-unit id="91" identifier="336cfa93340542383559afaee647d244" approved="yes">
+        <source>Charge your phone x% in x minutes!</source>
+        <target>Φορτίστε το τηλέφωνό σας x % σε x λεπτά!</target>
+        <note>Context: quickcharge-desc</note>
+      </trans-unit>
+      <trans-unit id="92" identifier="e9945dd9bd84058ec3ff69cdc45f8045" approved="yes">
+        <source>SnapCharge Technology</source>
+        <target>Τεχνολογία Ασύρματης Φόρτισης</target>
+        <note>Context: snapcharge</note>
+      </trans-unit>
+      <trans-unit id="93" identifier="a798ea96e6ce5ad97e6edfc907cee654" approved="yes">
+        <source>Even faster than ever before!</source>
+        <target>Ακόμη πιο γρήγορα από ποτέ!</target>
+        <note>Context: snapcharge-desc</note>
+      </trans-unit>
+      <trans-unit id="94" identifier="2cb643222270dc87643f5e074b5b795c" approved="yes">
+        <source>Dash Charge</source>
+        <target>Ταχύτατη Φόρτιση</target>
+        <note>Context: dashcharge</note>
+      </trans-unit>
+      <trans-unit id="95" identifier="928224781732e7183d7f010fa2dbde36" approved="yes">
+        <source>Charge your phone up to 40% in 15 minutes!</source>
+        <target>Φορτίστε το τηλέφωνό σας έως και 40% μέσα σε 15 λεπτά!</target>
+        <note>Context: dashcharge-desc</note>
+      </trans-unit>
+      <trans-unit id="96" identifier="31910a56415a8d7705c43ad65e805513" approved="yes">
+        <source>Dash Charge Extreme</source>
+        <target>Ακραία Ταχύτατη Φόρτιση</target>
+        <note>Context: dashcharge-extreme</note>
+      </trans-unit>
+      <trans-unit id="97" identifier="376fc570daf7601e74f9fc0c39243b88" approved="yes">
+        <source>Charge your phone up to 60% in 15 minutes!</source>
+        <target>Φορτίστε το τηλέφωνό σας έως και 60% μέσα σε 15 λεπτά!</target>
+        <note>Context: dashcharge-extreme-desc</note>
+      </trans-unit>
+      <trans-unit id="98" identifier="232b7e012b05041b7cee629ed0dd200d" approved="yes">
+        <source>Power Efficiency</source>
+        <target>Ενεργειακή Απόδοση</target>
+        <note>Context: powereff</note>
+      </trans-unit>
+      <trans-unit id="99" identifier="33c07878e20bb68b28e439d46401ba36" approved="yes">
+        <source>It's not very mobile if the battery dries up instantly...</source>
+        <target>Δεν είναι πολύ κινητό αν η μπαταρία στραγγίζει αμέσως...</target>
+        <note>Context: powereff-desc</note>
+      </trans-unit>
+      <trans-unit id="100" identifier="19a6f7570fe920752e2bc2de50cf536c" approved="yes">
+        <source>More Power Efficient</source>
+        <target>Περισσότερη Ενεργειακή Αποδοτική</target>
+        <note>Context: powereff-more</note>
+      </trans-unit>
+      <trans-unit id="101" identifier="953a22f22be5c26f61dd9147d4bb3eef" approved="yes">
+        <source>Have even more battery left at the end of the day!</source>
+        <target>Έχουν ακόμη περισσότερη μπαταρία διαθέσιμη στο τέλος της ημέρας!</target>
+        <note>Context: powereff-more-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="6" original="/CompanyTypes/P04. Storage.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="102" identifier="3ae9ad4d0e295a741571e4c8ab062231" approved="yes">
+        <source>Storages</source>
+        <target>Χώροι Αποθήκευσης</target>
+        <note>Context: storage-spec</note>
+      </trans-unit>
+      <trans-unit id="103" identifier="8964391ddc7598bc72e000a2b2c2d20c" approved="yes">
+        <source>Storage</source>
+        <target>Χώρος Αποθήκευσης</target>
+        <note>Context: storage-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="7" original="/CompanyTypes/P05. Memory.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="104" identifier="cd69b4957f06cd818d7bf3d61980e291" approved="yes">
+        <source>Memory</source>
+        <target>Μνήμη</target>
+        <note>Context: memory</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="8" original="/CompanyTypes/P10. Monitor.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="105" identifier="61515cbe45aa51eb82f735e609cbbb28" approved="yes">
+        <source>Monitors</source>
+        <target>Οθόνες</target>
+        <note>Context: monitor-spec</note>
+      </trans-unit>
+      <trans-unit id="106" identifier="f5205e7a2e9d9716924eb4ac87ab7349" approved="yes">
+        <source>Monitor</source>
+        <target>Οθόνη</target>
+        <note>Context: monitor-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="9" original="/CompanyTypes/P14. PC Case.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="107" identifier="52aee1d787e4f12d9b6bf49fa900bb6d" approved="yes">
+        <source>PC Cases</source>
+        <target>Πύργοι Υπολογιστών</target>
+        <note>Context: case-spec</note>
+      </trans-unit>
+      <trans-unit id="108" identifier="f13a3d91308bae4d4919781726754d96" approved="yes">
+        <source>Case</source>
+        <target>Πύργος</target>
+        <note>Context: case-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="10" original="/CompanyTypes/P15. Computer.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="109" identifier="4fccd930108a57b6121704c11d7b7f88" approved="yes">
+        <source>Computers</source>
+        <target>Υπολογιστές</target>
+        <note>Context: pc-spec</note>
+      </trans-unit>
+      <trans-unit id="110" identifier="25f0609b39358039752a1947eefee935" approved="yes">
+        <source>Computer</source>
+        <target>Υπολογιστής</target>
+        <note>Context: pc-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="11" original="/CompanyTypes/A01. ARM SOC.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="111" identifier="fab411b02a67a32a203b8b8bb2af5ca7" approved="yes">
+        <source>ARM SOC</source>
+        <target>ΣΣΤ (SOC) ARM (αρχιτεκτονική συνόλου εντολών RISC)</target>
+        <note>Context: arm-soc-spec</note>
+      </trans-unit>
+      <trans-unit id="112" identifier="e39486cdb20658b929a4c1f07d1c9a3a" approved="yes">
+        <source>ARM System-On-A-Chip</source>
+        <target>Σύστημα-Σε-Τσιπ (ΣΣΤ) ARM (ΑΣΕR)</target>
+        <note>Context: arm-soc-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="12" original="/CompanyTypes/A02. ARM TECH.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="113" identifier="07e915831efac13c28f7b1ff0f3c08c3" approved="yes">
+        <source>ARM Technologies</source>
+        <target>Τεχνολογίες ΑΣΕR (αρχιτεκτονική συνόλου εντολών RISC)</target>
+        <note>Context: arm-tech-spec</note>
+      </trans-unit>
+      <trans-unit id="114" identifier="016f8e244f7e6a3142b89f2f806bdaa1" approved="yes">
+        <source>Low-Powered Memory</source>
+        <target>Μνήμη Χαμηλής-Κατανάλωσης</target>
+        <note>Context: arm-tech-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="13" original="/CompanyTypes/A03. Mobile Phone.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="115" identifier="cc75c6b6f795ff2f97256bc763d8b0eb" approved="yes">
+        <source>Mobile Phones</source>
+        <target>Κινητά Τηλέφωνα</target>
+        <note>Context: mobilephone-spec</note>
+      </trans-unit>
+      <trans-unit id="116" identifier="386289bf252b89ac5db2d4115fcc6f6b" approved="yes">
+        <source>Mobile Phone</source>
+        <target>Κινητό Τηλέφωνο</target>
+        <note>Context: mobilephone-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="14" original="/CompanyTypes/P01. Motherboard.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="117" identifier="66dad126528d5953e85b3a5de153baac" approved="yes">
+        <source>Motherboards</source>
+        <target>Μητρικές Κάρτες</target>
+        <note>Context: motherboard-spec</note>
+      </trans-unit>
+      <trans-unit id="118" identifier="33c223dd84f5767fbb703e6a782250d9" approved="yes">
+        <source>Motherboard</source>
+        <target>Μητρική Κάρτα</target>
+        <note>Context: motherboard-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="15" original="/CompanyTypes/P02. Processor.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="119" identifier="62d0308da2ddc57d3d56701079f6a137" approved="yes">
+        <source>Processors</source>
+        <target>Επεξεργαστές</target>
+        <note>Context: processor-spec</note>
+      </trans-unit>
+      <trans-unit id="120" identifier="f4a7f65008c98ca8365ca3c9cbeff661" approved="yes">
+        <source>Processor</source>
+        <target>Επεξεργαστής</target>
+        <note>Context: processor-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="16" original="/CompanyTypes/P03. Graphics Card.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="121" identifier="0d269fb7ea617f5ea81405ccde0e0b3a" approved="yes">
+        <source>Graphics Cards</source>
+        <target>Κάρτες Γραφικών</target>
+        <note>Context: graphicscard-spec</note>
+      </trans-unit>
+      <trans-unit id="122" identifier="fa745929405157da6810dde9c60d0152" approved="yes">
+        <source>Graphics Card</source>
+        <target>Κάρτα Γραφικών</target>
+        <note>Context: graphicscard-soft</note>
+      </trans-unit>
+      <trans-unit id="123" identifier="d935b87455b4383cc9faa08e2e7b6883" approved="yes">
+        <source>Capture Card</source>
+        <target>Κάρτα Καταγραφής</target>
+        <note>Context: capturecard-soft</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="17" original="/SoftwareTypes/A02. LPDDRx.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="124" identifier="f47215569aad42c1cda689b48547decf" approved="yes">
+        <source>Low-Powered Memory</source>
+        <target>Μνήμη Χαμηλής-Κατανάλωσης</target>
+        <note>Context: lpddr</note>
+      </trans-unit>
+      <trans-unit id="125" identifier="13f22dacec2c8c1bdcb41052029080f1" approved="yes">
+        <source>Create RAM for ARM based products!</source>
+        <target>Φτιάξτε μνήμη RAM για προϊόντα βασισμένα σε ΑΣΕR (ARM)!</target>
+        <note>Context: lpddr-desc</note>
+      </trans-unit>
+      <trans-unit id="126" identifier="c21f969b5f03d33d43e04f8f136e7682" approved="yes">
+        <source>Default</source>
+        <target>Προεπιλεγμένο</target>
+        <note>Context: default</note>
+      </trans-unit>
+      <trans-unit id="127" identifier="07317cb4140d61dbf18caec497455ee7" approved="yes">
+        <source>Memory Interface</source>
+        <target>Μνήμη Διεπαφής</target>
+        <note>Context: meminterface</note>
+      </trans-unit>
+      <trans-unit id="128" identifier="f376d36426a5cb6063ebe163fdc00bf9" approved="yes">
+        <source>Allows the RAM to interface with the motherboard</source>
+        <target>Επιτρέπει στη μνήμη RAM να διασυνδέσεται με τη μητρική κάρτα</target>
+        <note>Context: meminterface-desc</note>
+      </trans-unit>
+      <trans-unit id="129" identifier="55d5fa402d4fa30a744f270764399327" approved="yes">
+        <source>DIMM Interfacing</source>
+        <target>Διασύνδεση ΔΕΣΜ (DIMM)</target>
+        <note>Context: dimminterace</note>
+      </trans-unit>
+      <trans-unit id="130" identifier="8377e51bbb3e0cdd3c511bba632f2770" approved="yes">
+        <source>A easy standard, reduces time needed.</source>
+        <target>Ένα εύκολο πρότυπο, μειώνει το χρόνο που απαιτείται.</target>
+        <note>Context: dimminterface-desc</note>
+      </trans-unit>
+      <trans-unit id="131" identifier="10403cbde135df439dd682cdc00b8197" approved="yes">
+        <source>Soldered on RAM</source>
+        <target>Συγκολλημένες στην RAM</target>
+        <note>Context: solderinterface</note>
+      </trans-unit>
+      <trans-unit id="132" identifier="a51c83589b1c129243b16f44d879a7e8" approved="yes">
+        <source>Even easier! Solder it to the motherboard!</source>
+        <target>Ακόμα πιο εύκολο! Κολλήσεις με τη μητρική κάρτα!</target>
+        <note>Context: solderinterface-desc</note>
+      </trans-unit>
+      <trans-unit id="133" identifier="194042c6ed1c57dfa82719f94bf75003" approved="yes">
+        <source>It supports LPDDR1 motherboards. Nothing special really.</source>
+        <target>Υποστηρίζει LPDDR1 μητρικές κάρτες. Τίποτα το ιδιαίτερο, πραγματικά.</target>
+        <note>Context: lpddr1-desc</note>
+      </trans-unit>
+      <trans-unit id="134" identifier="3cbb5fe29d229245ce4c7ad6fe18a9b2" approved="yes">
+        <source>LPDDR2! Improving speed, power and size!</source>
+        <target>LPDDR2! Βελτίωση της ταχύτητα, δύναμη και μέγεθος!</target>
+        <note>Context: lpddr2-desc</note>
+      </trans-unit>
+      <trans-unit id="135" identifier="8c65c425da4975d96ad8f7996a1f2b2e" approved="yes">
+        <source>LPDDR3! To the mainstream...</source>
+        <target>LPDDR3! Για το mainstream...</target>
+        <note>Context: lpddr3-desc</note>
+      </trans-unit>
+      <trans-unit id="136" identifier="e3bcbafb9ddaca38efe545ddf7b4e39c" approved="yes">
+        <source>LPDDR4! Speed, effciency, size, all in one.</source>
+        <target>LPDDR4! Ταχύτητα, αποδοτικότητα, μέγεθος, όλα σε ένα.</target>
+        <note>Context: lpddr4-desc</note>
+      </trans-unit>
+      <trans-unit id="137" identifier="bc13c285183ea95a8b910f1fe9fc5df0" approved="yes">
+        <source>Battery Mode</source>
+        <target>Λειτουργία (Mode) Μπαταρίας</target>
+        <note>Context: batmode</note>
+      </trans-unit>
+      <trans-unit id="138" identifier="104b97ab0fda24ac43f6efcae857ac68" approved="yes">
+        <source>A Standard mode, underclock the RAM to save battery!</source>
+        <target>Σε Τυπική λειτουργία, underclock την μνήμη RAM για να εξοικονομίσει την μπαταρία!</target>
+        <note>Context: batmode-desc</note>
+      </trans-unit>
+      <trans-unit id="139" identifier="48aabe4dcabc57d17e7c454b230fffef" approved="yes">
+        <source>Standard Speed</source>
+        <target>Τυπική Ταχύτητα</target>
+        <note>Context: stanspeed</note>
+      </trans-unit>
+      <trans-unit id="140" identifier="faa5440f7f466c9e8407558cd1560b32" approved="yes">
+        <source>A entry mode, standard ram speed for improved peformance.</source>
+        <target>Μια λειτουργία εισόδου, ταχύτητα τυπικής μνήμης ram για βελτίωση των επιδόσεών της.</target>
+        <note>Context: stanspeed-desc</note>
+      </trans-unit>
+      <trans-unit id="141" identifier="ec61189533ca6ac5fc08eacfb143b9f1" approved="yes">
+        <source>Regular Peformance</source>
+        <target>Τακτική επιδόση</target>
+        <note>Context: regspeed</note>
+      </trans-unit>
+      <trans-unit id="142" identifier="006edc25b52d94ecb02a997fe8c28c89" approved="yes">
+        <source>Push the RAM slightly further, get extra performance for games.</source>
+        <target>Σπρώξτε τη μνήμη RAM ελαφρώς περαιτέρω, να λάβετε επιπλέον απόδοση για τα παιχνίδια.</target>
+        <note>Context: regspeed-desc</note>
+      </trans-unit>
+      <trans-unit id="143" identifier="9e798c597453f592cb9965338b7cc743" approved="yes">
+        <source>Race Peformance</source>
+        <target>Επιδόσεις Αγώνα</target>
+        <note>Context: racespeed</note>
+      </trans-unit>
+      <trans-unit id="144" identifier="48fbb4c0f9273c4fe304c82e63b04ac6" approved="yes">
+        <source>Draw extra voltage for safe overclocking.</source>
+        <target>Σχεδιάστε επιπλέον τάσης για ασφαλή overclocking.</target>
+        <note>Context: racespeed-desc</note>
+      </trans-unit>
+      <trans-unit id="145" identifier="302055c608237c47e5813de65d9a7c1a" approved="yes">
+        <source>XMP Profiling</source>
+        <target>ΕΜΠ (XMP) Προφίλ</target>
+        <note>Context: xmpspeed</note>
+      </trans-unit>
+      <trans-unit id="146" identifier="8299c14da1865b9a7c82eaeec67e4008" approved="yes">
+        <source>Safely push alot more Mhz with no extra voltage!</source>
+        <target>Σπρώξτε με ασφάλεια πολλά περισσότερα Mhz χωρίς καμία επιπλέον τάση!</target>
+        <note>Context: xmpspeed-desc</note>
+      </trans-unit>
+      <trans-unit id="147" identifier="eac816cfcdc967d98b9e74eda6ce62ca" approved="yes">
+        <source>XMP 2.0</source>
+        <target>ΕΜΠ (XMP) 2.0</target>
+        <note>Context: xmp2speed</note>
+      </trans-unit>
+      <trans-unit id="148" identifier="09ea0c7a3ac9500e390bc65c841a4c5f" approved="yes">
+        <source>Maximum peformance!</source>
+        <target>Μέγιστο των επιδόσεων του!</target>
+        <note>Context: xmpspeed2-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="18" original="/SoftwareTypes/A03. Mobile Phone.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="149" identifier="6a3373b56b068eda8af6c3ecaf491428" approved="yes">
+        <source>Mobile Phone</source>
+        <target>Κινητό τηλέφωνο</target>
+        <note>Context: mobphone</note>
+      </trans-unit>
+      <trans-unit id="150" identifier="fb93c219913f8bc2defcccd48ccd219e" approved="yes">
+        <source>Make a mobile phone to sell to the masses!</source>
+        <target>Κάντε έναν κινητό τηλέφωνο να πωλήται στις μάζες!</target>
+        <note>Context: mobphone-desc</note>
+      </trans-unit>
+      <trans-unit id="151" identifier="c21f969b5f03d33d43e04f8f136e7682" approved="yes">
+        <source>Default</source>
+        <target>Προεπιλεγμένο</target>
+        <note>Context: default</note>
+      </trans-unit>
+      <trans-unit id="152" identifier="06d5ff07384f19c0f72737f5e6ad5dc1" approved="yes">
+        <source>A phone. What more could you want.</source>
+        <target>Ένα κινητό. Τι περισσότερο θα μπορούσατε να θέλετε.</target>
+        <note>Context: default-desc</note>
+      </trans-unit>
+      <trans-unit id="153" identifier="97b062dc09d4ccb2760c70d2c0b73ebc" approved="yes">
+        <source>Phone Casing</source>
+        <target>Θήκη Κινητού</target>
+        <note>Context: phonecase</note>
+      </trans-unit>
+      <trans-unit id="154" identifier="9a74726582af4c6580645e09b20b722e" approved="yes">
+        <source>Well, what else are you going to put the parts in?!</source>
+        <target>Λοιπόν, τι άλλο πρόκειται να βάλετε στα μέρη?!</target>
+        <note>Context: phonecase-desc</note>
+      </trans-unit>
+      <trans-unit id="155" identifier="a18bfa135795f91df76795da9b72363c" approved="yes">
+        <source>Phone Casing with Camera Cut-Out</source>
+        <target>Θήκη Κινητού με Απόκομα για την Κάμερα</target>
+        <note>Context: phonecasec</note>
+      </trans-unit>
+      <trans-unit id="156" identifier="e1e19a6294586de43893d24104a50101" approved="yes">
+        <source>Allows you to add in a camera.</source>
+        <target>Σας επιτρέπει να προσθέσετε σε κάμερα.</target>
+        <note>Context: phonecasec-desc</note>
+      </trans-unit>
+      <trans-unit id="157" identifier="d844d392347267a444206ec078ec10ef" approved="yes">
+        <source>Speaker Amplifier</source>
+        <target>Ενισχυτής Ηχείων</target>
+        <note>Context: speakeramp</note>
+      </trans-unit>
+      <trans-unit id="158" identifier="1a9df021b3eec556be816ce450b1220a" approved="yes">
+        <source>You'll need these for sound. Isn't it obvious? No? Ok.</source>
+        <target>Θα χρειαστείτε αυτά για τον ήχο. Δεν είναι προφανές; Όχι? Ok.</target>
+        <note>Context: speakeramp-desc</note>
+      </trans-unit>
+      <trans-unit id="159" identifier="f0dc81a8a980333e911f475b62f6f238" approved="yes">
+        <source>Speaker</source>
+        <target>Ηχείο</target>
+        <note>Context: speaker</note>
+      </trans-unit>
+      <trans-unit id="160" identifier="1fe07e4fbe4b892ecb33e6a0c06b4d59" approved="yes">
+        <source>Would make sense to have these with the amp? No? It's your phone not mine...</source>
+        <target>Θα ήταν λογικό να έχετε αυτά με τον ενισχυτή; Όχι? Δικό σας είναι το τηλέφωνο, όχι δικό μου...</target>
+        <note>Context: speaker-desc</note>
+      </trans-unit>
+      <trans-unit id="161" identifier="8d089dd6eda4e8797c2af043848e1cc5" approved="yes">
+        <source>Stereo Speakers</source>
+        <target>Στερεοφωνικά Ηχεία</target>
+        <note>Context: sspeaker</note>
+      </trans-unit>
+      <trans-unit id="162" identifier="c255507b5e6e0862a797b78f84958abc" approved="yes">
+        <source>Two speakers are better than one. (in theory)</source>
+        <target>Δύο ηχεία είναι καλύτερα από ένα. (θεωρητικά)</target>
+        <note>Context: sspeaker-desc</note>
+      </trans-unit>
+      <trans-unit id="163" identifier="4ff9fc6e4e5d5f590c4f2134a8cc96d1" approved="yes">
+        <source>3.5mm Jack</source>
+        <target>Βύσμα υποδοχής 3.5χιλ</target>
+        <note>Context: jack</note>
+      </trans-unit>
+      <trans-unit id="164" identifier="146b2f49aab8d79e72c43b00ffca0dcf" approved="yes">
+        <source>For listening to music through headphones (not included)</source>
+        <target>Για να ακούτε μουσική μέσω των ακουστικών (δεν περιλαμβάνονται)</target>
+        <note>Context: jack-desc</note>
+      </trans-unit>
+      <trans-unit id="165" identifier="fd4d931e2a3b4d8caec04709ee7dafd5" approved="yes">
+        <source>3.5mm Combi-Jack</source>
+        <target>Βύσμα Combi-υποδοχής 3,5 χιλ</target>
+        <note>Context: combijack</note>
+      </trans-unit>
+      <trans-unit id="166" identifier="970ff90ad370a8cde9673d7727551f46" approved="yes">
+        <source>Plug headphones and a microphone into the same port, at the same time!</source>
+        <target>Συνδέστε ακουστικά και ένα μικρόφωνο στην ίδια θύρα, την ίδια στιγμή!</target>
+        <note>Context: combijack-desc</note>
+      </trans-unit>
+      <trans-unit id="167" identifier="4eea1e5de59fbc61cb3ab480dbbf6a5f" approved="yes">
+        <source>Microphone</source>
+        <target>Μικρόφωνο</target>
+        <note>Context: mic</note>
+      </trans-unit>
+      <trans-unit id="168" identifier="8ac320e4d848720253907c0abc8c1b53" approved="yes">
+        <source>For making calls, you know, the point of a phone? Oh forget it.</source>
+        <target>Για την πραγματοποίηση κλήσεων, ξέρεις, το νόημα του τηλεφώνου; Ω Ξέχνα το.</target>
+        <note>Context: mic-desc</note>
+      </trans-unit>
+      <trans-unit id="169" identifier="13c463735a1365df8485e97fdf90a79d" approved="yes">
+        <source>Monochrome Display</source>
+        <target>Μονόχρωμη Οθόνη</target>
+        <note>Context: mcdisplay</note>
+      </trans-unit>
+      <trans-unit id="170" identifier="46f11d6885995be6759a45ef15446ab0" approved="yes">
+        <source>A basic monochrome screen, two colours, low resolution.</source>
+        <target>Μια βασική μονόχρωμη οθόνη, δύο χρώματα, χαμηλή ανάλυση.</target>
+        <note>Context: mcdisplay-desc</note>
+      </trans-unit>
+      <trans-unit id="171" identifier="747cd4aaeb6c22503ce985831e445626" approved="yes">
+        <source>LCD TFT Display</source>
+        <target>Οθόνη LCD TFT</target>
+        <note>Context: tftdisplay</note>
+      </trans-unit>
+      <trans-unit id="172" identifier="d1af1e6e03d22108d0c15be581748c83" approved="yes">
+        <source>Yay for colours, its a shame theres about 2 degrees of viewing angles!</source>
+        <target>Μπιάχ για τα χρώματα, είναι μια ντροπή είναι περίπου 2 μοιρών γωνίες θέασης!</target>
+        <note>Context: tftdisplay-desc</note>
+      </trans-unit>
+      <trans-unit id="173" identifier="b2cd71d3f1024cc600aaf0b48767ceb9" approved="yes">
+        <source>LCD TFT TouchDisplay</source>
+        <target>LCD TFT Οθόνη Αφής</target>
+        <note>Context: tfttdisplay</note>
+      </trans-unit>
+      <trans-unit id="174" identifier="b5447e359962ff4a772775c2276d8c97" approved="yes">
+        <source>No advancement in the same awful display, but you can poke it now!</source>
+        <target>Καμία πρόοδος στην ίδια απαίσια οθόνη, αλλά μπορείτε να την τσεπόσετε το τώρα!</target>
+        <note>Context: tfttdisplay-desc</note>
+      </trans-unit>
+      <trans-unit id="175" identifier="6b63267a200c02b703c7a75cacc31c37" approved="yes">
+        <source>IPS TouchDisplay</source>
+        <target>ΑΣΕ (IPS) Οθόνη Αφής</target>
+        <note>Context: ipsdisplay</note>
+      </trans-unit>
+      <trans-unit id="176" identifier="63ba15a097d5947a5b43b005b0bb69e6" approved="yes">
+        <source>Touchscreen and a display that isn't absoultely dreadful. Madness.</source>
+        <target>Οθόνη αφής και μια οθόνη που δεν είναι τόσο φοβερή. Τρέλα.</target>
+        <note>Context: ipsdisplay-desc</note>
+      </trans-unit>
+      <trans-unit id="177" identifier="dafa8ba92339f4ff24faead8118e9e83" approved="yes">
+        <source>The brains of the phone. The thing that does it all. 42.</source>
+        <target>Οι εγκέφαλοι του τηλεφώνου. Το πράγμα που τα κάνει όλα. 42.</target>
+        <note>Context: armsoc-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="19" original="/SoftwareTypes/P01. Motherboard.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="178" identifier="63ea45b84052361ae0ae6315fc7ba87b" approved="yes">
+        <source>Motherboard</source>
+        <target>Μητρική Κάρτα</target>
+        <note>Context: motherboard</note>
+      </trans-unit>
+      <trans-unit id="179" identifier="698fb59221939aa45d90cbc0b4bdb520" approved="yes">
+        <source>A circuitboard which you plug other components in to.</source>
+        <target>Μια πλακέτα κυκλωμάτων στην οποία συνδέετε άλλα εξαρτήματα.</target>
+        <note>Context: motherboard-desc</note>
+      </trans-unit>
+      <trans-unit id="180" identifier="1005b14bd29466723ace30d26f602f5b" approved="yes">
+        <source>Consumer</source>
+        <target>Καταναλωτής</target>
+        <note>Context: consumer</note>
+      </trans-unit>
+      <trans-unit id="181" identifier="007eea74362a0fd56f8fba047ad2da53" approved="yes">
+        <source>Geared towards individuals, these less powerful computeres are easier to make; but consumers replace them fairly often.</source>
+        <target>Στραμένοι προς τα άτομα, αυτοί οι λιγότερο ισχυροί υπολογιστές είναι ευκολότερο να φτιαχτούν. αλλά οι καταναλωτές τις αντικαθιστούν αρκετά συχνά.</target>
+        <note>Context: consumer-desc</note>
+      </trans-unit>
+      <trans-unit id="182" identifier="cf1e8c14e54505f60aa10ceb8d5d8ab3" approved="yes">
+        <source>Server</source>
+        <target>Διακομιστής (Server)</target>
+        <note>Context: server</note>
+      </trans-unit>
+      <trans-unit id="183" identifier="e5296f2afbfbd64f4af1c2e2927324e3" approved="yes">
+        <source>Geared towards businesses, these more powerful computers are harder to make and must be stable; but businesses don't upgrade often.</source>
+        <target>Στραμένοι προς τις επιχειρήσεις, αυτοί οι πιο ισχυροί υπολογιστές είναι πιο δύσκολο να φτιαχτούν και πρέπει να είναι σταθεροί: αλλά οι επιχειρήσεις δεν αναβαθμίζουν συχνά.</target>
+        <note>Context: server-desc</note>
+      </trans-unit>
+      <trans-unit id="184" identifier="dea3e342eaa78eb4735eba9dc76559c3" approved="yes">
+        <source>Out of Band Management</source>
+        <target>Έξω από τη ζώνη διαχείρισης</target>
+        <note>Context: obm</note>
+      </trans-unit>
+      <trans-unit id="185" identifier="d83e19c48c518806b28e9cb6b36020e8" approved="yes">
+        <source>A serial port or ethernet port (when internet comes around) to work with the server, when you can't just be local to it.</source>
+        <target>Μια σειριακή θύρα ή θύρα ethernet (όταν το Διαδίκτυο έρχεται γύρω γύρω) για να συνεργαστεί με το διακομιστή, όταν δεν μπορείτε να είστε τοπικά με αυτό.</target>
+        <note>Context: obm-desc</note>
+      </trans-unit>
+      <trans-unit id="186" identifier="16e3e9a7287fd7ac6b4dd693dfd488c1" approved="yes">
+        <source>Remote Power</source>
+        <target>Απομακρυσμένη Ενέργεια</target>
+        <note>Context: remotepower</note>
+      </trans-unit>
+      <trans-unit id="187" identifier="e0ce85746ec5803cb1eaf3dd5592da3a" approved="yes">
+        <source>Allows you to remotely turn the server on/off.</source>
+        <target>Σας επιτρέπει να χειριστείτε από απόσταση το διακομιστή για ενεργοποίηση/απενεργοποίηση.</target>
+        <note>Context: remotepower-desc</note>
+      </trans-unit>
+      <trans-unit id="188" identifier="64bb44683aa3dd842c9ee9e129f37a46" approved="yes">
+        <source>Remote Input</source>
+        <target>Απομακρυσμένη Είσοδος</target>
+        <note>Context: remoteinput</note>
+      </trans-unit>
+      <trans-unit id="189" identifier="d4729e286c16abf1e1ecc7d45e5518f7" approved="yes">
+        <source>Allows you to remotely press certain keys, often useful to stop a server from rebooting.</source>
+        <target>Σας επιτρέπει να χειριστείτε σε απόσταση με το πάτημα συγκεκριμένων πλήκτρων, συχνά χρήσιμο για να σταματήσετε ένα διακομιστή από την επανεκκίνηση.</target>
+        <note>Context: remoteinput-desc</note>
+      </trans-unit>
+      <trans-unit id="190" identifier="6adef84edb6c5246bb65fb6e4db082c0" approved="yes">
+        <source>Remote Video</source>
+        <target>Απομακρυσμένη Εικόνα Βίντεο</target>
+        <note>Context: remotevideo</note>
+      </trans-unit>
+      <trans-unit id="191" identifier="ae198158bb7c47009f2b4a279a1e25af" approved="yes">
+        <source>Allows you to actually see what's on the screen, and interact with the server remotely.</source>
+        <target>Σας επιτρέπει να δείτε τι είναι στην οθόνη σε πραγματικό χρόνο και να αλληλεπιδράτε με το διακομιστή εξ αποστάσεως.</target>
+        <note>Context: remotevideo-desc</note>
+      </trans-unit>
+      <trans-unit id="192" identifier="404f7d591ec9f27619de145f261f5527" approved="yes">
+        <source>Remote Audio</source>
+        <target>Απομακρυσμένος Ήχος</target>
+        <note>Context: remoteaudio</note>
+      </trans-unit>
+      <trans-unit id="193" identifier="43e52cd3e6b5d80cf28d0043cc7f9bc1" approved="yes">
+        <source>Allows you hear what's going on the server, such as music or local input devices.</source>
+        <target>Σας επιτρέπει να ακούσετε τι συμβαίνει στο διακομιστή, όπως μουσική ή τοπικές συσκευές εισόδου.</target>
+        <note>Context: remoteaudio-desc</note>
+      </trans-unit>
+      <trans-unit id="194" identifier="60288c559fff97e8cbb60e1bd4ee0b83" approved="yes">
+        <source>CMOS Battery</source>
+        <target>Μπαταρία ΣΗΜΟ (CMOS)</target>
+        <note>Context: cmos</note>
+      </trans-unit>
+      <trans-unit id="195" identifier="f83f5394b24db9f2720b2a873bd4e720" approved="yes">
+        <source>Exists to keep the system time, configuration, and allow for logging systems to flush when the system loses power.</source>
+        <target>Υπάρχει για να κρατήσει το σύστημα χρόνου, διαμόρφωσης, και επιτρέπει την καταγραφή του συστήματος όταν το σύστημα χάνει την ενέργειά του.</target>
+        <note>Context: cmos-desc</note>
+      </trans-unit>
+      <trans-unit id="196" identifier="88264747405203a0502c8d242fdad7df" approved="yes">
+        <source>BIOS</source>
+        <target>BIOS</target>
+        <note>Context: bios</note>
+      </trans-unit>
+      <trans-unit id="197" identifier="58a502b8c5f4229a2701f1e6f1912578" approved="yes">
+        <source>Allows for configuration management, log viewing, and tweaking of the computer system.</source>
+        <target>Επιτρέπει τη Διαχείριση διαμόρφωσης των παραμέτρων, προβολής καταγραφής και μικροαλλαγών του συστήματος του υπολογιστή.</target>
+        <note>Context: bios-desc</note>
+      </trans-unit>
+      <trans-unit id="198" identifier="a009536524c5ba5d6e8f64ee2b5d7503" approved="yes">
+        <source>UEFI</source>
+        <target>UEFI</target>
+        <note>Context: uefi</note>
+      </trans-unit>
+      <trans-unit id="199" identifier="b4198bf157b20d1cea6ea2c43cced8de" approved="yes">
+        <source>he BIOS just wasn't good enough ...</source>
+        <target>ίδιο BIOS, απλά δεν ήταν αρκετά καλό...</target>
+        <note>Context: uefi-desc</note>
+      </trans-unit>
+      <trans-unit id="200" identifier="fcfc94e6b1bfb9ce87817ed1db7117a6" approved="yes">
+        <source>CPU Socket</source>
+        <target>Υποδοχή CPU</target>
+        <note>Context: cpus</note>
+      </trans-unit>
+      <trans-unit id="201" identifier="8e738768584a9b871a5937950e8d7b80" approved="yes">
+        <source>Somewhere to shove that fine thinkin' brain of yours.</source>
+        <target>Κάπου να χώσουν το πρόστιμο της σκέψης του μυαλό σου.</target>
+        <note>Context: cpus-desc</note>
+      </trans-unit>
+      <trans-unit id="202" identifier="adfe124c0fe516ecec7f93c9791b7756" approved="yes">
+        <source>Dual Socket</source>
+        <target>Διπλή Υποδοχή</target>
+        <note>Context: cpud</note>
+      </trans-unit>
+      <trans-unit id="203" identifier="93c2ab8ba96299099dc5d44c739b2c71" approved="yes">
+        <source>TWICE THE PROCESSORS</source>
+        <target>ΔΥΟ ΟΙ ΕΠΕΞΕΡΓΑΣΤΕΣ</target>
+        <note>Context: cpud-desc</note>
+      </trans-unit>
+      <trans-unit id="204" identifier="a2c7d8a24c9c6c72b1211b34aaea6b46" approved="yes">
+        <source>Quad Socket</source>
+        <target>Τεσσάρων Υυποδοχών</target>
+        <note>Context: cpuq</note>
+      </trans-unit>
+      <trans-unit id="205" identifier="211543ce37bc053a72f088be630c6d69" approved="yes">
+        <source>FOUR THE PROCESSORS</source>
+        <target>ΤΕΣΣΕΡΙΣ ΟΙ ΕΠΕΞΕΡΓΑΣΤΕΣ</target>
+        <note>Context: cpuq-desc</note>
+      </trans-unit>
+      <trans-unit id="206" identifier="576550ea4a84c808a28f5e1005f88eb2" approved="yes">
+        <source>Daughter Board support</source>
+        <target>Υποστήριξη Θυγατρικής Κάρτας</target>
+        <note>Context: dboard</note>
+      </trans-unit>
+      <trans-unit id="207" identifier="906ed9df07f0a9f0ee44606eaa826886" approved="yes">
+        <source>Adds support for Daughter Boards, which can be added to the Computer to increase processing power.</source>
+        <target>Προσθέτει υποστήριξη για θυγατρικές κάρτες, οι οποίες μπορούν να προστεθούν στον υπολογιστή για να αυξηθεί η δύναμη επεξεργασίας.</target>
+        <note>Context: dboard-desc</note>
+      </trans-unit>
+      <trans-unit id="208" identifier="36385c72e90771b1ab5e3142cbf3ef04" approved="yes">
+        <source>Overclocking</source>
+        <target>Overclocking</target>
+        <note>Context: overclock</note>
+      </trans-unit>
+      <trans-unit id="209" identifier="10dc5ea1d2bac0eb66ebfdb3020fca80" approved="yes">
+        <source>Adding features to the BIOS/UEFI that let the user control the speed of their Processor, which also creates more heat and is unstable.</source>
+        <target>Προσθέτοντας χαρακτηριστικά στο BIOS/UEFI που επιτρέπουν το χρήστη να ελέγξει την ταχύτητα του επεξεργαστή του, η οποία επίσης δημιουργεί περισσότερη θερμότητα και είναι ασταθής.</target>
+        <note>Context: overclock-desc</note>
+      </trans-unit>
+      <trans-unit id="210" identifier="a38556c923ef6b9c055e4abc13f5242e" approved="yes">
+        <source>Water Cooling</source>
+        <target>Ψύκτρα Νερού</target>
+        <note>Context: overclockw</note>
+      </trans-unit>
+      <trans-unit id="211" identifier="88ff21b2df7ca5d2c73a677784da3fb6" approved="yes">
+        <source>Helps stabilize overclocking</source>
+        <target>Βοηθά στη σταθεροποίηση του overclocking</target>
+        <note>Context: overclockw-desc</note>
+      </trans-unit>
+      <trans-unit id="212" identifier="28c1dbb0cf213f3048dd85a6c8e9c781" approved="yes">
+        <source>Nitrogen Cooling</source>
+        <target>Ψύξη Αζώτου</target>
+        <note>Context: overclockn</note>
+      </trans-unit>
+      <trans-unit id="213" identifier="ae26d3085b56a5c3df99df6bdedef60b" approved="yes">
+        <source>Try not to freeze yourself</source>
+        <target>Προσπαθήστε να μην παγώσετε τον εαυτό σας</target>
+        <note>Context: overclockn-desc</note>
+      </trans-unit>
+      <trans-unit id="214" identifier="2976d2268fa25a8f6a3953a800aaf027" approved="yes">
+        <source>Subzero Cooling</source>
+        <target>Ψύξη Υπό το Μηδέν</target>
+        <note>Context: overclocks</note>
+      </trans-unit>
+      <trans-unit id="215" identifier="24114dc5ea8b521fc6905287973d3625" approved="yes">
+        <source>Insert movie reference here</source>
+        <target>Εισαγάγετε εδώ την αναφορά ταινίας</target>
+        <note>Context: overclocks-desc</note>
+      </trans-unit>
+      <trans-unit id="216" identifier="ba59642d9596774144a727197cc4c705" approved="yes">
+        <source>14k Modem</source>
+        <target>14Κ Μόντεμ (Modem)</target>
+        <note>Context: 14kmod</note>
+      </trans-unit>
+      <trans-unit id="217" identifier="0033bf92853a99b76b6cec36450997cf" approved="yes">
+        <source>THIS MAKES YOU THEIR ISP, WATCH YOUR BANDWIDTH</source>
+        <target>ΑΥΤΟ ΣΑΣ ΚΑΘΙΣΤΑ ΤΗΝ ΥΠΗΡΕΣΙΑ ΠΑΡΟΧΗΣ INTERNET, ΠΡΟΣΕΧΤΕ ΤΟ ΕΥΡΟΣ ΖΩΝΗΣ ΣΑΣ</target>
+        <note>Context: 14kmod-desc</note>
+      </trans-unit>
+      <trans-unit id="218" identifier="f9b4991247c9fd61d36ceb4b24a200bd" approved="yes">
+        <source>56k Modem</source>
+        <target>56Κ Μόντεμ (Modem)</target>
+        <note>Context: 56kmod</note>
+      </trans-unit>
+      <trans-unit id="219" identifier="ddf4a2e98b77ee271853a24de00785b3" approved="yes">
+        <source>Upgrade everyone's modems to 56k</source>
+        <target>Αναβάθμιση του καθενός μόντεμ σε 56Κ</target>
+        <note>Context: 56kmod-desc</note>
+      </trans-unit>
+      <trans-unit id="220" identifier="79d76db88cc9aa2cb2d56a16bbce9691" approved="yes">
+        <source>Broadband</source>
+        <target>Ευρυζωνικότητα</target>
+        <note>Context: broadband</note>
+      </trans-unit>
+      <trans-unit id="221" identifier="fa64bf725babcfa72d054bfad5c15b43" approved="yes">
+        <source>Upgrade everyone's modems to Broadband</source>
+        <target>Αναβάθμιση του καθενός μόντεμ σε ευρείαα ζώνη</target>
+        <note>Context: broadband-desc</note>
+      </trans-unit>
+      <trans-unit id="222" identifier="1588b3bd03133321a4f442700fb7ade1" approved="yes">
+        <source>Dual NIC</source>
+        <target>Διπλή ΕΔΔ (NIC)</target>
+        <note>Context: dnic</note>
+      </trans-unit>
+      <trans-unit id="223" identifier="1266a3e6f3037223aa0e36c43e19ad87" approved="yes">
+        <source>Two network interfaces configured in a mode called 'bonding' which allows them to handle packets for each other.  Considered to be more stable than having only one.</source>
+        <target>Δύο διασυνδέσεις δικτύου έχει ρυθμιστεί σε λειτουργία που ονομάζεται «συγκόλληση» που τους επιτρέπει να χειρίζoνται τα πακέτα για μεταξύ τους. Θεωρείται ότι είναι πιο σταθερό αντί έχοντας μόνο ένα.</target>
+        <note>Context: dnic-desc</note>
+      </trans-unit>
+      <trans-unit id="224" identifier="855923325fa23283dda6da090d10fdf2" approved="yes">
+        <source>Cable</source>
+        <target>Καλώδιο</target>
+        <note>Context: cable</note>
+      </trans-unit>
+      <trans-unit id="225" identifier="ffac520cb013201f925922f2d331c282" approved="yes">
+        <source>Upgrade everyone's modems to Cable</source>
+        <target>Αναβάθμιση του καθενός μόντεμ σε καλώδιο</target>
+        <note>Context: cable-desc</note>
+      </trans-unit>
+      <trans-unit id="226" identifier="d4f02db936f820f977dfde0eb98aa03b" approved="yes">
+        <source>Fiber</source>
+        <target>Ίνα</target>
+        <note>Context: fiber</note>
+      </trans-unit>
+      <trans-unit id="227" identifier="e7d62a726cbd3864b5b7c3d6b33e5b09" approved="yes">
+        <source>FASTER THAN LIGHT: FTL</source>
+        <target>ΓΡΗΓΟΡΟΤΕΡΟ ΑΠΟ ΤΟ ΦΩΣ: ΓΑΦ</target>
+        <note>Context: fiber-desc</note>
+      </trans-unit>
+      <trans-unit id="228" identifier="fb5914622a6a9112bc77a767112a6dfc" approved="yes">
+        <source>RAM Slots (DRAM)</source>
+        <target>Υποδοχές μνήμης RAM (ΜΤΠ - DRAM)</target>
+        <note>Context: dram</note>
+      </trans-unit>
+      <trans-unit id="229" identifier="e035788f00759f95056598d7469c6ba9" approved="yes">
+        <source>Somewhere to shove the memory.</source>
+        <target>Κάπου για να σπρώχνω τη μνήμη.</target>
+        <note>Context: dram-desc</note>
+      </trans-unit>
+      <trans-unit id="230" identifier="8f9f727e2ba69bcf6ca50e22cd4070f2" approved="yes">
+        <source>SDRAM</source>
+        <target>ΣΔΜΤΠ (SDRAM)</target>
+        <note>Context: sdram</note>
+      </trans-unit>
+      <trans-unit id="231" identifier="f3cb28296cf2fc7ba7b3dd4a01c188c3" approved="yes">
+        <source>Synchronous dynamic random-access memory.</source>
+        <target>Σύγχρονη δυναμική μνήμη τυχαίας προσπέλασης.</target>
+        <note>Context: sdram-desc</note>
+      </trans-unit>
+      <trans-unit id="232" identifier="b9ce391e970ede27e9eb0c3f6ef3f274" approved="yes">
+        <source>DDR</source>
+        <target>ΔΡΔ (DDR)</target>
+        <note>Context: ddr</note>
+      </trans-unit>
+      <trans-unit id="233" identifier="1e9cfb56937f8ad8a7f7a6a10b2456ea" approved="yes">
+        <source>Waaaaay faster!</source>
+        <target>Ναιιιιι γρηγορότερα!</target>
+        <note>Context: ddr-desc</note>
+      </trans-unit>
+      <trans-unit id="234" identifier="e86f52e5b5f57c786bf17233aee9c615" approved="yes">
+        <source>DDR2</source>
+        <target>ΔΡΠ2 (DDR2)</target>
+        <note>Context: ddr2</note>
+      </trans-unit>
+      <trans-unit id="235" identifier="37272c39237879f23d0541653fe63cef" approved="yes">
+        <source>Waaaaaaaaay faster!</source>
+        <target>Ναιιιι πιο γρήγορα!</target>
+        <note>Context: ddr2-desc</note>
+      </trans-unit>
+      <trans-unit id="236" identifier="9ea5bdd29692f10540ec3ce4d8ba97f5" approved="yes">
+        <source>DDR3</source>
+        <target>ΔΡΠ3 (DDR3)</target>
+        <note>Context: ddr3</note>
+      </trans-unit>
+      <trans-unit id="237" identifier="fed98e3416547133c12e48624aa97b34" approved="yes">
+        <source>Waaaaaaaaaaaaaaay faster!</source>
+        <target>Ναιιιιι πιο γρήγορα!</target>
+        <note>Context: ddr3-desc</note>
+      </trans-unit>
+      <trans-unit id="238" identifier="59a98898efc5226d57d2da1e7c4444d4" approved="yes">
+        <source>DDR4</source>
+        <target>ΔΡΠ4 (DDR4)</target>
+        <note>Context: ddr4</note>
+      </trans-unit>
+      <trans-unit id="239" identifier="e999accf4f366b6e4e2964422974b007" approved="yes">
+        <source>Waaaaaaaaaaaaaaaaaaaaaay faster!</source>
+        <target>Ναιιιιι πιο γρήγορα!</target>
+        <note>Context: ddr4-desc</note>
+      </trans-unit>
+      <trans-unit id="240" identifier="836f0a7871b827ff4e8dff4ba96b0a76" approved="yes">
+        <source>DDR5</source>
+        <target>ΔΡΠ5 (DDR5)</target>
+        <note>Context: ddr5</note>
+      </trans-unit>
+      <trans-unit id="241" identifier="fd571d5eaa3037d04baaf2a5aee65e9a" approved="yes">
+        <source>Super speed.</source>
+        <target>Σούπερ ταχύτητα.</target>
+        <note>Context: ddr5-desc</note>
+      </trans-unit>
+      <trans-unit id="242" identifier="71975914eddae86a564babf2107b1c19" approved="yes">
+        <source>PCI Slots</source>
+        <target>Υποδοχές ΠΔΣ (PCI)</target>
+        <note>Context: pcis</note>
+      </trans-unit>
+      <trans-unit id="243" identifier="3edd1a20f0572cd2b84b285662df388b" approved="yes">
+        <source>Slots that let users install additional hardware, currently only Graphics Cards require PCI.</source>
+        <target>Οι υποδοχές που επιτρέπουν στους χρήστες να εγκαταστήσουν πρόσθετο εξάρτημα, επί του παρόντος μόνο κάρτες γραφικών απαιτούν ΠΔΣ (PCI).</target>
+        <note>Context: pcis-desc</note>
+      </trans-unit>
+      <trans-unit id="244" identifier="ee8a0c8a0dad4871ff990e2ffbce605a" approved="yes">
+        <source>AGP</source>
+        <target>ΣΘΓ (AGP)</target>
+        <note>Context: agp</note>
+      </trans-unit>
+      <trans-unit id="245" identifier="4803533fd5c49dd7c8ac0820109382d7" approved="yes">
+        <source>A bus dedicated to graphics adapters.</source>
+        <target>Ένα λεωφορείο αφιερωμένο σε προσαρμογές γραφικών.</target>
+        <note>Context: agp-desc</note>
+      </trans-unit>
+      <trans-unit id="246" identifier="f6fa7f85de76380642f5dbb46f37a389" approved="yes">
+        <source>AGP x8</source>
+        <target>ΣΘΓ (AGP) x8</target>
+        <note>Context: agp8</note>
+      </trans-unit>
+      <trans-unit id="247" identifier="f82ebad283a407d7c4887808e494f34d" approved="yes">
+        <source>A bus dedicated to graphics adapters x8.</source>
+        <target>Ένα λεωφορείο αφιερωμένο σε προσαρμογές γραφικών x8.</target>
+        <note>Context: agp8-desc</note>
+      </trans-unit>
+      <trans-unit id="248" identifier="047990f7b65f8c937eee80efa1fc88b3" approved="yes">
+        <source>PCI Express</source>
+        <target>ΠΔΣ Εξπρές (PCI Express)</target>
+        <note>Context: pcie</note>
+      </trans-unit>
+      <trans-unit id="249" identifier="2770f18c15beb902b70e747b25cb763a" approved="yes">
+        <source>A much faster version of PCI, must match the Graphics Cards being used.</source>
+        <target>Μια πολύ ταχύτερη έκδοση του ΠΔΣ (PCI), θα πρέπει να ταιριάζει με τις κάρτες γραφικών που χρησιμοποιείται.</target>
+        <note>Context: pcie-desc</note>
+      </trans-unit>
+      <trans-unit id="250" identifier="60a6d39c610fa0d6d5251a78dca8d95e" approved="yes">
+        <source>SLl Support</source>
+        <target>Υποστήριξη ΑΕΥ (SLl)</target>
+        <note>Context: 2sli</note>
+      </trans-unit>
+      <trans-unit id="251" identifier="b9d3d42f44517be574a0ebdb223bd6d3" approved="yes">
+        <source>Allows for the use of two graphics cards.</source>
+        <target>Επιτρέπει τη χρήση δύο καρτών γραφικών.</target>
+        <note>Context: 2sli-desc</note>
+      </trans-unit>
+      <trans-unit id="252" identifier="0dd544edae5b30177b8feb96209fda5f" approved="yes">
+        <source>Triple SLl</source>
+        <target>Τριπλό ΑΕΥ (SLl)</target>
+        <note>Context: 3sli</note>
+      </trans-unit>
+      <trans-unit id="253" identifier="e2ec1a7127116b0ae96df2369d0f1e04" approved="yes">
+        <source>Now you can fit three graphics cards.</source>
+        <target>Τώρα μπορείτε να χωρέσει τρεις κάρτες γραφικών.</target>
+        <note>Context: 3sli-desc</note>
+      </trans-unit>
+      <trans-unit id="254" identifier="114aaa182a4da6e95a3479a898b2b058" approved="yes">
+        <source>Quad SLl</source>
+        <target>Τετραπλό ΑΕΥ (SLl)</target>
+        <note>Context: 4sli</note>
+      </trans-unit>
+      <trans-unit id="255" identifier="0f4a6ad3018839d6a026e52fef6714d1" approved="yes">
+        <source>FOUR TIMES THE GRPAHICS!</source>
+        <target>ΤΕΣΣΕΡΙΣ ΦΟΡΕΣ ΤΑ ΓΡΑΦΙΚΑ!</target>
+        <note>Context: 4sli-desc</note>
+      </trans-unit>
+      <trans-unit id="256" identifier="d48a3350b584ed4e697802a2f85e4918" approved="yes">
+        <source>PS/2</source>
+        <target>ΠΣ/2 (PS/2)</target>
+        <note>Context: ps2</note>
+      </trans-unit>
+      <trans-unit id="257" identifier="4f0d153a6a4e803bf001c8ad82f339aa" approved="yes">
+        <source>Allows you to plug in peripherals such as a Keyboard or Mouse.</source>
+        <target>Σας επιτρέπει να συνδέσετε περιφερειακές συσκευές όπως ένα πληκτρολόγιο ή ποντίκι.</target>
+        <note>Context: ps2-desc</note>
+      </trans-unit>
+      <trans-unit id="258" identifier="2abfd9d1d5cd8637dd95a3e4fa60fc91" approved="yes">
+        <source>Fan Control</source>
+        <target>Έλεγχος Ανεμιστήρα</target>
+        <note>Context: fancontrol</note>
+      </trans-unit>
+      <trans-unit id="259" identifier="f519d99bf6bb23bcd15355ebbf975480" approved="yes">
+        <source>The system can use fans to cool down.</source>
+        <target>Το σύστημα μπορεί να χρησιμοποιήσει ανεμιστηράκια για να κρυώσει.</target>
+        <note>Context: fancontrol-desc</note>
+      </trans-unit>
+      <trans-unit id="260" identifier="faac6c146a3ea5d40c136f7d685bbd34" approved="yes">
+        <source>Connectors</source>
+        <target>Υποδοχές Σύνδεσης</target>
+        <note>Context: connectors</note>
+      </trans-unit>
+      <trans-unit id="261" identifier="ee2b300f169e53b5d013ff8630660b73" approved="yes">
+        <source>Wow! Plug all your stuffs in!</source>
+        <target>Πω πω! Συνδέστε όλα τα πράγματά σας!</target>
+        <note>Context: connectors-desc</note>
+      </trans-unit>
+      <trans-unit id="262" identifier="aac91a1a1cbafdeb5423fa7a91325578" approved="yes">
+        <source>PC Speaker</source>
+        <target>Ηχείο Υ/Η</target>
+        <note>Context: pcspeaker</note>
+      </trans-unit>
+      <trans-unit id="263" identifier="1a0376b534d4f427a113d84d71838088" approved="yes">
+        <source>Certain beeps help for debugging.</source>
+        <target>Ορισμένα ηχητικά σήματα βοήθεια για τον εντοπισμό σφαλμάτων.</target>
+        <note>Context: pcspeaker-desc</note>
+      </trans-unit>
+      <trans-unit id="264" identifier="38a939ff9bf2be26d88c5417d6d0e394" approved="yes">
+        <source>Stereo Sound</source>
+        <target>Στερεοφωνικός Ήχος</target>
+        <note>Context: ssound</note>
+      </trans-unit>
+      <trans-unit id="265" identifier="fcc33ae498e2a28af0d51fe8b89e990e" approved="yes">
+        <source>Plug in those fancy ear muff things that make noise!</source>
+        <target>Βάλτε εκείνα τα μικρά πράγματα στο αυτί σας που κάνουν θόρυβο!</target>
+        <note>Context: ssound-desc</note>
+      </trans-unit>
+      <trans-unit id="266" identifier="a6374a70d693efc27922839449073c7e" approved="yes">
+        <source>5.1 Audio</source>
+        <target>Ήχος 5.1</target>
+        <note>Context: 51sound</note>
+      </trans-unit>
+      <trans-unit id="267" identifier="e7e4b2388db006aabdfb39a687885500" approved="yes">
+        <source>More realistic sound positioning.</source>
+        <target>Πιο ρεαλιστική τοποθέτηση του ήχου.</target>
+        <note>Context: 51sound-desc</note>
+      </trans-unit>
+      <trans-unit id="268" identifier="a21c0fc58b626faa3a604d7ab5750631" approved="yes">
+        <source>7.1 Audio</source>
+        <target>Ήχος 7.1</target>
+        <note>Context: 71sound</note>
+      </trans-unit>
+      <trans-unit id="269" identifier="17887418ef0f331d67782c2fc9d501cc" approved="yes">
+        <source>Even More realistic sound positioning.</source>
+        <target>Ακόμη πιο ρεαλιστική τοποθέτηση του ήχου.</target>
+        <note>Context: 71sound-desc</note>
+      </trans-unit>
+      <trans-unit id="270" identifier="cfd293ea884f31b76c8385c22dffd5ba" approved="yes">
+        <source>4D Audio</source>
+        <target>Ήχος 4D</target>
+        <note>Context: 4sound</note>
+      </trans-unit>
+      <trans-unit id="271" identifier="2756240adf725e69386f356699b0a26f" approved="yes">
+        <source>It's almost as if you were there</source>
+        <target>Είναι σχεδόν σαν να ήσασταν εκεί</target>
+        <note>Context: 4sound-desc</note>
+      </trans-unit>
+      <trans-unit id="272" identifier="62ed973d963913bb55111a7b8116ace1" approved="yes">
+        <source>Universal Bus</source>
+        <target>Σειριακός Δίαυλος (USB)</target>
+        <note>Context: usb</note>
+      </trans-unit>
+      <trans-unit id="273" identifier="acb54d4134ab3284ac444321e6ce605a" approved="yes">
+        <source>That thing you always plug into your PC the wrong side... USB</source>
+        <target>Αυτό το πράγμα στο PC σας που το συνδέετε πάντα από τη λάθος πλευρά... USB</target>
+        <note>Context: usb-desc</note>
+      </trans-unit>
+      <trans-unit id="274" identifier="5d5568c9e032e85902d6937e53530cb6" approved="yes">
+        <source>Universal Bus 2</source>
+        <target>Σειριακός Δίαυλος 2 (USB 2.0)</target>
+        <note>Context: usb2</note>
+      </trans-unit>
+      <trans-unit id="275" identifier="0631533dedf7f66caeeac1ac59a3b8c2" approved="yes">
+        <source>Now with faster data transfer, figuring out which side are you going to plug it in in the dark is still terrible</source>
+        <target>Τώρα με την ταχύτερη μεταφορά δεδομένων, υπολογίζοντας από ποια πλευρά θα το συνδέσετε μέσα στο σκοτάδι είναι ακόμη τρομερή</target>
+        <note>Context: usb2-desc</note>
+      </trans-unit>
+      <trans-unit id="276" identifier="bbb31ba5352d1405ed76ba2cb17473db" approved="yes">
+        <source>Universal Bus 3</source>
+        <target>Σειριακός Δίαυλος 3 (USB 3.0)</target>
+        <note>Context: usb3</note>
+      </trans-unit>
+      <trans-unit id="277" identifier="a7d3a01a45566a8cbbad15137abea1a8" approved="yes">
+        <source>Woooo, a rapid fast USB colored in blue!</source>
+        <target>Ουάουυυυ, μια ταχεία γρήγορη USB με μπλέ χρώμα!</target>
+        <note>Context: usb3-desc</note>
+      </trans-unit>
+      <trans-unit id="278" identifier="4e9e42fdedf3ad74ac591e8fd4430736" approved="yes">
+        <source>Thunderclap</source>
+        <target>Thunderclap</target>
+        <note>Context: tclap</note>
+      </trans-unit>
+      <trans-unit id="279" identifier="2959d9813ec5d66e82465ee17c7fb2b8" approved="yes">
+        <source>Boom!</source>
+        <target>Μπουμ!</target>
+        <note>Context: tclap-desc</note>
+      </trans-unit>
+      <trans-unit id="280" identifier="8d3d42244be6d090a6f4cc7011422926" approved="yes">
+        <source>Universal Bus 3.1</source>
+        <target>Σειριακός Δίαυλος 3.1 (USB 3.1)</target>
+        <note>Context: usb31</note>
+      </trans-unit>
+      <trans-unit id="281" identifier="a40504e7d662b3705eaf1839d826e2e9" approved="yes">
+        <source>10GBIT!</source>
+        <target>10GBIT!</target>
+        <note>Context: usb31-desc</note>
+      </trans-unit>
+      <trans-unit id="282" identifier="63d82bb145d79108d392289cce33da92" approved="yes">
+        <source>Universal Bus 3.1 Type C</source>
+        <target>Καθολική λεωφορείο 3.1 τύπου C (USB 3.1c)</target>
+        <note>Context: usb31c</note>
+      </trans-unit>
+      <trans-unit id="283" identifier="49149b34fff3aeb30b8835f082dfcad6" approved="yes">
+        <source>Finally reversible!</source>
+        <target>Τέλος αναστρέψιμo!</target>
+        <note>Context: usb31c-desc</note>
+      </trans-unit>
+      <trans-unit id="284" identifier="f46872fc1b5f08e9d32bd107be1df829" approved="yes">
+        <source>Indicators</source>
+        <target>Δείκτες</target>
+        <note>Context: indicators</note>
+      </trans-unit>
+      <trans-unit id="285" identifier="0fc302333c07c8b20c45b229efefed6c" approved="yes">
+        <source>The things that flash.</source>
+        <target>Τα πράγματα που αναβοσβήνουν.</target>
+        <note>Context: indicators-desc</note>
+      </trans-unit>
+      <trans-unit id="286" identifier="ef70a6546536ccd835479f6cddc0188e" approved="yes">
+        <source>RGB Lights</source>
+        <target>Φώτα ΚΠΜ (RGB)</target>
+        <note>Context: rgb</note>
+      </trans-unit>
+      <trans-unit id="287" identifier="4ed5aa6b9887a0e5c4b85cbe68967090" approved="yes">
+        <source>Ooooooh, multicoloured flashy</source>
+        <target>Ουάουυυυυ, φανταχτερό και πολύχρωμο</target>
+        <note>Context: rgb-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="20" original="/SoftwareTypes/P02. Processor.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="288" identifier="d9747e2da342bdb995f6389533ad1a3d">
+        <source>Processor</source>
+        <target state="translated">Επεξεργαστής</target>
+        <note>Context: cpu</note>
+      </trans-unit>
+      <trans-unit id="289" identifier="9fb2065538127b03241e181411a2bf3f">
+        <source>The brain of every computer.</source>
+        <target state="translated">Ο εγκέφαλος του κάθε υπολογιστή.</target>
+        <note>Context: cpu-desc</note>
+      </trans-unit>
+      <trans-unit id="290" identifier="c21f969b5f03d33d43e04f8f136e7682">
+        <source>Default</source>
+        <target state="translated">Προεπιλεγμένο</target>
+        <note>Context: default</note>
+      </trans-unit>
+      <trans-unit id="291" identifier="06d5ff07384f19c0f72737f5e6ad5dc1">
+        <source>Create a central processing unit!</source>
+        <target state="translated">Για να δημιουργήσετε μια κεντρική μονάδα επεξεργασίας!</target>
+        <note>Context: default-desc</note>
+      </trans-unit>
+      <trans-unit id="292" identifier="b26f19cee83495193e9922d55ecb6e9a">
+        <source>Math Unit</source>
+        <target state="translated">Μαθηματική μονάδα</target>
+        <note>Context: mathunit</note>
+      </trans-unit>
+      <trans-unit id="293" identifier="d35c9edea0f1f8753ad72633cc56f024">
+        <source>The Main Brain. Does things like finding &quot;X&quot; from &quot;X=42^(1-4+9)</source>
+        <target state="translated">Ο κύριος εγκέφαλος. Κάνει πράγματα όπως το βρίσκει το «Χ» από την εξίσωση X=42^(1-4+9)</target>
+        <note>Context: mathunit-desc</note>
+      </trans-unit>
+      <trans-unit id="294" identifier="8d2495ce8108188799d62f1a632c72fa">
+        <source>Divider</source>
+        <target state="translated">Διαιρέτης</target>
+        <note>Context: divider</note>
+      </trans-unit>
+      <trans-unit id="295" identifier="f17645e84a433563cafa2de9abe7fd6a">
+        <source>Division without the thinking</source>
+        <target state="translated">Διαίρεση χωρίς σκέψη</target>
+        <note>Context: divider-desc</note>
+      </trans-unit>
+      <trans-unit id="296" identifier="b34daa835853f71d4d1bb8ba3c8dff8d">
+        <source>APU</source>
+        <target state="translated">ΜΤΕ (APU)</target>
+        <note>Context: apu</note>
+      </trans-unit>
+      <trans-unit id="297" identifier="15abecf31a8f253bbd5575e981e26bb9">
+        <source>An accelerrated processing unit, glueing the graphics chip onto the cpu.</source>
+        <target state="translated">Μια 'Μονάδα ταχείας επεξεργασίας', συγκόλληση το chip γραφικών πάνω στη cpu.</target>
+        <note>Context: apu-desc</note>
+      </trans-unit>
+      <trans-unit id="298" identifier="a66ba339c264883b0aea4b7680b444ab">
+        <source>Parallel Math</source>
+        <target state="translated">Παράλληλα Μαθηματικά</target>
+        <note>Context: pmath</note>
+      </trans-unit>
+      <trans-unit id="299" identifier="92e2d7e658b239988c02ce8fb60c10da">
+        <source>What if you could do two things at once, on one core?</source>
+        <target state="translated">Τι θα γινόταν αν μπορούσατε να κάνετε δύο πράγματα ταυτόχρονα, μόνο με έναν πυρήνα;</target>
+        <note>Context: pmath-desc</note>
+      </trans-unit>
+      <trans-unit id="300" identifier="cd31c925c5a577c29e0360fc41e4f946">
+        <source>Control Unit</source>
+        <target state="translated">Μονάδα Ελέγχου</target>
+        <note>Context: cunit</note>
+      </trans-unit>
+      <trans-unit id="301" identifier="bdfc1319cede648d368cacd17e401297">
+        <source>The main controlling unit of the CPU.</source>
+        <target state="translated">Η κύρια μονάδα ελέγχου της CPU.</target>
+        <note>Context: cunit-desc</note>
+      </trans-unit>
+      <trans-unit id="302" identifier="35622d934f1bb4c0f2d4b65de04db787">
+        <source>Hyper-threading</source>
+        <target state="translated">Υπερνημάτωση (Hyper-threading)</target>
+        <note>Context: hthreading</note>
+      </trans-unit>
+      <trans-unit id="303" identifier="07d34617bbdf601ad8a5b07747366a7b">
+        <source>Cheat out consumers by faking them cores. Wooo!</source>
+        <target state="translated">Εξαπατήστε τους καταναλωτές με απομίμηση των πυρήνων. Ουάουυ!</target>
+        <note>Context: hthreading-desc</note>
+      </trans-unit>
+      <trans-unit id="304" identifier="9557a70c429dc87df9a8c4975591eada">
+        <source>Dual Core</source>
+        <target state="translated">Διπλο-Πύρηνο</target>
+        <note>Context: 2core</note>
+      </trans-unit>
+      <trans-unit id="305" identifier="9ce1fccff0f9a5e79bf89803f1175a00">
+        <source>Double those cores.</source>
+        <target state="translated">Διπλασιάστε αυτούς τους πυρήνες.</target>
+        <note>Context: 2core-desc</note>
+      </trans-unit>
+      <trans-unit id="306" identifier="fab709597c910a7ac6fc6c08a446a9a3">
+        <source>Quad Core</source>
+        <target state="translated">Τετρα-Πύρηνο</target>
+        <note>Context: 4core</note>
+      </trans-unit>
+      <trans-unit id="307" identifier="07b31b28acdf5ca41f18a9cdd91f5e6a">
+        <source>... and again?</source>
+        <target state="translated">... και πάλι;</target>
+        <note>Context: 4core-desc</note>
+      </trans-unit>
+      <trans-unit id="308" identifier="57f2160c8d989ed9a0da6749ac48fd45">
+        <source>Octo Core</source>
+        <target state="translated">Οκτα-Πύρηνο</target>
+        <note>Context: 8core</note>
+      </trans-unit>
+      <trans-unit id="309" identifier="4bf54884a669a63f5df1aeb057bdd13b">
+        <source>...... again?!</source>
+        <target state="translated">... και πάλι;!</target>
+        <note>Context: 8core-desc</note>
+      </trans-unit>
+      <trans-unit id="310" identifier="c9d2c7540466ce614f741fc6ffdef81a">
+        <source>Heat Spreaders</source>
+        <target state="translated">Ψεκαστήρες θερμότητας</target>
+        <note>Context: heatspreaders</note>
+      </trans-unit>
+      <trans-unit id="311" identifier="a27f1a9ab91f3781599fee20ec7246e1">
+        <source>To prevent your CPU from replacing your grill</source>
+        <target state="translated">Για να αποτρέψετε την αντικατάσταση της σχάρας της CPU σας</target>
+        <note>Context: heatspreaders-desc</note>
+      </trans-unit>
+      <trans-unit id="312" identifier="09ab88e3bb50b33d954015801b3354f8">
+        <source>Heat Pipes</source>
+        <target state="translated">Σωλήνες θερμότητας</target>
+        <note>Context: heatpipes</note>
+      </trans-unit>
+      <trans-unit id="313" identifier="b128c35ce07f433220aad148f8e59d5e">
+        <source>Probably gives the most heat dissapation</source>
+        <target state="translated">Μάλλον δίνει την μεγαλύτερη διαρροή θερμότητας</target>
+        <note>Context: heatpipes-desc</note>
+      </trans-unit>
+      <trans-unit id="314" identifier="0db441f53ff328fee5e3f094798842e1">
+        <source>Heat Fins</source>
+        <target state="translated">Πτερύγια Θερμότητας</target>
+        <note>Context: heatfins</note>
+      </trans-unit>
+      <trans-unit id="315" identifier="94f0613fcb1424bd396d3b9ffc4004ca">
+        <source>Most definitely gives the most heat dissapation.</source>
+        <target state="translated">Δίνει πιο σίγουρα την μεγαλύτερη διαρροή θερμότητας.</target>
+        <note>Context: heatfins-desc</note>
+      </trans-unit>
+      <trans-unit id="316" identifier="236a264f3ced0a1e4d6697a2ce43a0df">
+        <source>Thermal Paste</source>
+        <target state="translated">Θερμική Πάστα</target>
+        <note>Context: tpaste</note>
+      </trans-unit>
+      <trans-unit id="317" identifier="c9eee2112ea4cbd4f8df708765647d65">
+        <source>Help to transfer heat from CPU to the cooler</source>
+        <target state="translated">Βοήθεια για τη μεταφορά θερμότητας από τη CPU στο ψυγείο</target>
+        <note>Context: tpaste-desc</note>
+      </trans-unit>
+      <trans-unit id="318" identifier="3afcd8da45ca6727d8ac7aee8a712dab">
+        <source>Substrate</source>
+        <target state="translated">Υπόστρωμα</target>
+        <note>Context: substrate</note>
+      </trans-unit>
+      <trans-unit id="319" identifier="67f3ea07537ef8721a7d056148ced8de">
+        <source>Move the heat on. Faster.</source>
+        <target state="translated">Μετακίνηση της θερμότητας. Πιο γρήγορα.</target>
+        <note>Context: substrate-desc</note>
+      </trans-unit>
+      <trans-unit id="320" identifier="c1b215752d672df1448c18e92dabdf37">
+        <source>Arctic Paste</source>
+        <target state="translated">Αρκτική Πάστα</target>
+        <note>Context: apaste</note>
+      </trans-unit>
+      <trans-unit id="321" identifier="f22e1b06ea9533ef7488b4bc64b73907">
+        <source>Move the heat on. Fastest.</source>
+        <target state="translated">Μετακίνηση της θερμότητας. Ταχύτατα.</target>
+        <note>Context: apaste-desc</note>
+      </trans-unit>
+      <trans-unit id="322" identifier="625678a8364e10787fed28a21c722c53">
+        <source>Logic Unit</source>
+        <target state="translated">Λογική Μονάδα</target>
+        <note>Context: lunit</note>
+      </trans-unit>
+      <trans-unit id="323" identifier="5dd0277658ee74826832a8dd35d3d2f2">
+        <source>The Other Main Brain. Does things like comparing two numbers</source>
+        <target state="translated">Ο Άλλος Κύριος Εγκεφάλος. Κάνει πράγματα όπως τη σύγκριση δύο αριθμών</target>
+        <note>Context: lunit-desc</note>
+      </trans-unit>
+      <trans-unit id="324" identifier="3e20e07e790b6add0c9d062f898ec4c4">
+        <source>Predicter</source>
+        <target state="translated">Predictοr</target>
+        <note>Context: predicter</note>
+      </trans-unit>
+      <trans-unit id="325" identifier="3de889d9f027afaf27ac333333bce50e">
+        <source>Can be used to improve logic</source>
+        <target state="translated">Μπορεί να χρησιμοποιηθεί για τη βελτίωση της λογικής</target>
+        <note>Context: predicter-desc</note>
+      </trans-unit>
+      <trans-unit id="326" identifier="1a188621672aa79b2048db2686c63c34">
+        <source>Fetcher</source>
+        <target state="translated">Φέτσερ</target>
+        <note>Context: fetcher</note>
+      </trans-unit>
+      <trans-unit id="327" identifier="b68bb369c595065ebeb67ba5afd1dfe8">
+        <source>Hugely speeds up the fetching time from registers.</source>
+        <target state="translated">Επιταχύνει εξαιρετικά τη στιγμή γοητευτικός από μητρώα.</target>
+        <note>Context: fetcher-desc</note>
+      </trans-unit>
+      <trans-unit id="328" identifier="3bb2242795d28419b6d308a25755f468">
+        <source>Registers</source>
+        <target state="translated">Μητρώα</target>
+        <note>Context: registers</note>
+      </trans-unit>
+      <trans-unit id="329" identifier="7874667e41048c63502465127e80f573">
+        <source>Store numbers quickly.</source>
+        <target state="translated">Αριθμός καταστημάτων γρήγορα.</target>
+        <note>Context: registers-desc</note>
+      </trans-unit>
+      <trans-unit id="330" identifier="0fea6a13c52b4d4725368f24b045ca84">
+        <source>Cache</source>
+        <target state="translated">Μνήμη Cache</target>
+        <note>Context: cache</note>
+      </trans-unit>
+      <trans-unit id="331" identifier="be7433ee5d1ee1883a5a538b6c51eb13">
+        <source>Caches hugely reduce the time needed to access memory.</source>
+        <target state="translated">Μνήμε Cache μειώνουν σημαντικά το χρόνο που απαιτείται για να αποκτήσει πρόσβαση στη μνήμη.</target>
+        <note>Context: cache-desc</note>
+      </trans-unit>
+      <trans-unit id="332" identifier="44bfffb08073c15a7d4daf6f0a0694b7">
+        <source>2nd Level</source>
+        <target state="translated">2ο Επίπεδο</target>
+        <note>Context: 2level</note>
+      </trans-unit>
+      <trans-unit id="333" identifier="154b02bb673102b838b96ef62eb0a79d">
+        <source>Even faster than 1st Level cache, but laggier.</source>
+        <target state="translated">Ακόμη πιο γρήγορα από ό, τι το 1ο επίπεδο μνήμης cache, αλλά πιο αργό.</target>
+        <note>Context: 2level-desc</note>
+      </trans-unit>
+      <trans-unit id="334" identifier="e048ba622c45118a002e6a4e7d2dbcb6">
+        <source>3rd Level</source>
+        <target state="translated">3ο Επίπεδο</target>
+        <note>Context: 3level</note>
+      </trans-unit>
+      <trans-unit id="335" identifier="c2fde8de9395f1d7e867d87af0fc3e6e">
+        <source>Increasing speeds once again.</source>
+        <target state="translated">Αυξανόμενες ταχύτητες και πάλι.</target>
+        <note>Context: 3level-desc</note>
+      </trans-unit>
+      <trans-unit id="336" identifier="f9bfabee56b2451859cb95824742e3fe">
+        <source>On-Chip Memory</source>
+        <target state="translated">Μνήμη Σε-Τσιπ (On-Chip)</target>
+        <note>Context: 4level</note>
+      </trans-unit>
+      <trans-unit id="337" identifier="69da6ef2efc47f8d32d7575b6912d7fa">
+        <source>Integrates the 3rd level cache directly onto the chip, reducing the access time dramatically,</source>
+        <target state="translated">Ενσωματώνει το 3ο επίπεδο cache απευθείας πάνω στο τσιπ, μειώνοντας δραματικά, το χρόνο πρόσβασης</target>
+        <note>Context: 4level-desc</note>
+      </trans-unit>
+      <trans-unit id="338" identifier="056e2b60465bee4f1d0776e2cf6a7383">
+        <source>Power Efficiency</source>
+        <target state="translated">Ενεργειακή Απόδοση</target>
+        <note>Context: peff</note>
+      </trans-unit>
+      <trans-unit id="339" identifier="1974e5472f5c72ca54bef5a9767873dc">
+        <source>Use less power! Save the planet!</source>
+        <target state="translated">Χρησιμοποιεί λιγότερη ενέργεια! Σώζουμε τον πλανήτη!</target>
+        <note>Context: peff-desc</note>
+      </trans-unit>
+      <trans-unit id="340" identifier="1b0d1f70b0262b3f0515c03aa6cf9e89">
+        <source>25%</source>
+        <target state="translated">25%</target>
+        <note>Context: 25peff</note>
+      </trans-unit>
+      <trans-unit id="341" identifier="4a185e2e5164b1115d85db8bd6bb98e8">
+        <source>One giant leap in... making things smaller?  Using smaller and smaller components has net a considerable power and efficiency increase.</source>
+        <target state="translated">Ένα γιγάντιο άλμα στο... κάνοντας τα πράγματα μικρότερα;  Χρησιμοποιώντας όλο και μικρότερα στοιχεία έχει σημαντική αύξηση ενέργειας και αποδοτικότητας.</target>
+        <note>Context: 25peff-desc</note>
+      </trans-unit>
+      <trans-unit id="342" identifier="870eb9dc74037a9d4f1ba69960187661">
+        <source>35%</source>
+        <target state="translated">35%</target>
+        <note>Context: 35peff</note>
+      </trans-unit>
+      <trans-unit id="343" identifier="ef1b9ef5f6ae5b791aef6a5dfc2fafdd">
+        <source>Yes, it really did take you four years to figure out how to save even ten percent more power on the chips themselves, you didn't want to sacrifice performance.</source>
+        <target state="translated">Ναι, Πραγματικά σας μεταφέρει τέσσερα χρόνια για να καταλάβετε πώς αποθηκεύει ακόμη και 10% περισσότερη ενέργεια για τα τσιπ τους, δεν θέλετε να θυσιάσετε την απόδοση.</target>
+        <note>Context: 35peff-desc</note>
+      </trans-unit>
+      <trans-unit id="344" identifier="fe08d72a6cdd6138b9542b6c840dd0a9">
+        <source>42%</source>
+        <target state="translated">42%</target>
+        <note>Context: 42peff</note>
+      </trans-unit>
+      <trans-unit id="345" identifier="2fdcc22820de1c7780ce354334b97461">
+        <source>A crazy scientist named &quot;Bob&quot; in the depths of your Research and Development dept. thinks he's solved the universe itself... or at least 7% more power savings.</source>
+        <target state="translated">Ένας τρελός επιστήμονας που ονομάζεται «Bob» στα βάθη της Έρευνάς σας και Ανάπτυξης πιστεύει ότι έχει λύσει το ίδιο το σύμπαν..., ή τουλάχιστον 7% περισσότερη εξοικονόμηση ενέργειας.</target>
+        <note>Context: 42peff-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="21" original="/SoftwareTypes/P05. Capture Card.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="346" identifier="d47ae008c8a83283211be41109a4d5d2">
+        <source>Capture Card</source>
+        <target state="translated">Κάρτα καταγραφής</target>
+        <note>Context: capturecard</note>
+      </trans-unit>
+      <trans-unit id="347" identifier="1dfa1baaec85a2b47334a12b8a6e5867">
+        <source>Capture a PC!</source>
+        <target state="translated">Πάρτε ένα PC!</target>
+        <note>Context: capturecard-desc</note>
+      </trans-unit>
+      <trans-unit id="348" identifier="c21f969b5f03d33d43e04f8f136e7682">
+        <source>Default</source>
+        <target state="translated">Προεπιλεγμένο</target>
+        <note>Context: default</note>
+      </trans-unit>
+      <trans-unit id="349" identifier="06d5ff07384f19c0f72737f5e6ad5dc1">
+        <source>Regular.</source>
+        <target state="translated">Κανονικό.</target>
+        <note>Context: default-desc</note>
+      </trans-unit>
+      <trans-unit id="350" identifier="8d829c0a8bc7030417dff221df7e44d0">
+        <source>PCI Interface</source>
+        <target state="translated">Διασύνδεση ΠΔΣ (PCI)</target>
+        <note>Context: pci</note>
+      </trans-unit>
+      <trans-unit id="351" identifier="c1355458d9122c1fa6d06c08cc32ab7d">
+        <source>It plugs into a PCI Slot!</source>
+        <target state="translated">Αυτό συνδέεται σε μια υποδοχή ΠΔΣ (PCI)!</target>
+        <note>Context: pci-desc</note>
+      </trans-unit>
+      <trans-unit id="352" identifier="047990f7b65f8c937eee80efa1fc88b3">
+        <source>PCI Express</source>
+        <target state="translated">ΠΔΣ (PCI) Εξπρές</target>
+        <note>Context: pcie</note>
+      </trans-unit>
+      <trans-unit id="353" identifier="2770f18c15beb902b70e747b25cb763a">
+        <source>PCI Express is much faster!</source>
+        <target state="translated">Το ΠΔΣ (PCI) Εξπρές είναι πολύ πιο γρήγορo!</target>
+        <note>Context: pcie-desc</note>
+      </trans-unit>
+      <trans-unit id="354" identifier="682ecf633ab08d4794f7b226458da863">
+        <source>SD Resolution</source>
+        <target state="translated">Ανάλυση SD</target>
+        <note>Context: sdres</note>
+      </trans-unit>
+      <trans-unit id="355" identifier="98b6ed056d868de74b6521dd777f27dc">
+        <source>Standard resolution, the one you hate on youtube.</source>
+        <target state="translated">Τυπική ανάλυση, το πράγμα που μισείς στο youtube.</target>
+        <note>Context: sdres-desc</note>
+      </trans-unit>
+      <trans-unit id="356" identifier="b4f7b65d61b9c34a6f4c497fd2a445c3">
+        <source>720p HD</source>
+        <target state="translated">720p HD</target>
+        <note>Context: hdres</note>
+      </trans-unit>
+      <trans-unit id="357" identifier="0688aab11061208fb00c90d320ccf438">
+        <source>&quot;High&quot; definition, not so high today...</source>
+        <target state="translated">«Υψηλή» ανάλυση, όχι τόσο υψηλή σήμερα...</target>
+        <note>Context: hdres-desc</note>
+      </trans-unit>
+      <trans-unit id="358" identifier="bd806100dd50d9e5c93d30c767a7d6a9">
+        <source>1080i HD</source>
+        <target state="translated">1080i HD</target>
+        <note>Context: fhdires</note>
+      </trans-unit>
+      <trans-unit id="359" identifier="db7a8b7c11d5d133c12a583a1f3dcca7">
+        <source>The poormans FHD.</source>
+        <target state="translated">Το FHD των φτωχών ανθρώπων.</target>
+        <note>Context: fhdires-desc</note>
+      </trans-unit>
+      <trans-unit id="360" identifier="66ee759dcbb9627210c5f519fed709bb">
+        <source>1080p HD</source>
+        <target state="translated">1080p HD</target>
+        <note>Context: fhdres</note>
+      </trans-unit>
+      <trans-unit id="361" identifier="2eda9798271760a79e4e7b7a23d0dcc2">
+        <source>Because 1080i is for the poor.</source>
+        <target state="translated">Επειδή το 1080i είναι για τους φτωχούς.</target>
+        <note>Context: fhdres-desc</note>
+      </trans-unit>
+      <trans-unit id="362" identifier="25f5d085205fca8a61047f3a4a5450cd">
+        <source>2160p HD</source>
+        <target state="translated">2160p HD</target>
+        <note>Context: 4kres</note>
+      </trans-unit>
+      <trans-unit id="363" identifier="cbed342ca21685944907cab85302f58d">
+        <source>For all of your 4k* needs. *Not actually 4k</source>
+        <target state="translated">Για τις 4Κ* ανάγκες σας. *Δεν είναι ακριβώς 4Κ</target>
+        <note>Context: 4kres-desc</note>
+      </trans-unit>
+      <trans-unit id="364" identifier="05934928102b17827b8f03ed60c3e6e0">
+        <source>Framerate</source>
+        <target state="translated">Framerate</target>
+        <note>Context: fps</note>
+      </trans-unit>
+      <trans-unit id="365" identifier="3f18c9ed56d62e2b1cb76e183707b72b">
+        <source>I mean, it's moving. Right?</source>
+        <target state="translated">Θέλω να πω, κινείται. Έτσι;</target>
+        <note>Context: fps-desc</note>
+      </trans-unit>
+      <trans-unit id="366" identifier="8039777f0eeb78d275013d2561ad6c90">
+        <source>24FPS</source>
+        <target state="translated">24FPS</target>
+        <note>Context: 24fps</note>
+      </trans-unit>
+      <trans-unit id="367" identifier="2e23533b0b9dc278e721ca0ea45c0e6b">
+        <source>Gives you the cinematic feel.</source>
+        <target state="translated">Σας δίνει την κινηματογραφική αίσθηση.</target>
+        <note>Context: 24fps-desc</note>
+      </trans-unit>
+      <trans-unit id="368" identifier="9a096f7471648bf1f8bc083f8862e292">
+        <source>30FPS</source>
+        <target state="translated">30FPS</target>
+        <note>Context: 30fps</note>
+      </trans-unit>
+      <trans-unit id="369" identifier="cc6411b585f0bc22ea7262b8c9c5ff1b">
+        <source>The ultimate standard.</source>
+        <target state="translated">Το απόλυτο πρότυπο.</target>
+        <note>Context: 30fps-desc</note>
+      </trans-unit>
+      <trans-unit id="370" identifier="0cc95c2e6060e5ec20c788368ae577c8">
+        <source>50FPS</source>
+        <target state="translated">50FPS</target>
+        <note>Context: 50fps</note>
+      </trans-unit>
+      <trans-unit id="371" identifier="5275f6389c204bf7f39e6c2896b58f4a">
+        <source>Backwards compatible with glorious 24FPS</source>
+        <target state="translated">Συμβατό με ένδοξο 24FPS</target>
+        <note>Context: 50fps-desc</note>
+      </trans-unit>
+      <trans-unit id="372" identifier="1168fc47ae4f02e60e283cd10a5f2391">
+        <source>60FPS</source>
+        <target state="translated">60FPS</target>
+        <note>Context: 60fps</note>
+      </trans-unit>
+      <trans-unit id="373" identifier="b0573f9261d30e59d2744d423d7b551e">
+        <source>A direct upgrade to smooth motion, still backwards compatible wtih 30fps.</source>
+        <target state="translated">Μια άμεση αναβάθμιση στην ομαλή κίνηση, ακόμα προς τα πίσω συμβατό με 30fps.</target>
+        <note>Context: 60fps-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="22" original="/SoftwareTypes/P14. PC Case.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="374" identifier="cd14c323902024e72c850aa828d634a7" approved="yes">
+        <source>Case</source>
+        <target>Πύργος</target>
+        <note>Context: case</note>
+      </trans-unit>
+      <trans-unit id="375" identifier="4c7ea38577afa33c8b0aabb2db5875f5">
+        <source>Computers need a shell too.</source>
+        <target state="needs-translation">Computers need a shell too.</target>
+        <note>Context: case-desc</note>
+      </trans-unit>
+      <trans-unit id="376" identifier="b35b36916c8139fa5777d27e63f8192e">
+        <source>PC Tower</source>
+        <target state="needs-translation">PC Tower</target>
+        <note>Context: pctower</note>
+      </trans-unit>
+      <trans-unit id="377" identifier="b829ea4775539dbccd2f81b329e967c7">
+        <source>Individuals love to pimp out their case, and are generally only interested in what it looks like.</source>
+        <target state="needs-translation">Individuals love to pimp out their case, and are generally only interested in what it looks like.</target>
+        <note>Context: pctower-desc</note>
+      </trans-unit>
+      <trans-unit id="378" identifier="7a21c67db6623623bf4f215d13697b5c">
+        <source>Rack Server</source>
+        <target state="needs-translation">Rack Server</target>
+        <note>Context: rackserver</note>
+      </trans-unit>
+      <trans-unit id="379" identifier="e11a53a4b511a1e75e41fd5a6922502e">
+        <source>Server cases are robust and often include multiple of each components to minimize the impact of failure and maintenance.</source>
+        <target state="needs-translation">Server cases are robust and often include multiple of each components to minimize the impact of failure and maintenance.</target>
+        <note>Context: rackserver-desc</note>
+      </trans-unit>
+      <trans-unit id="380" identifier="312f91285e048e09bb4aefef23627994">
+        <source>Laptop</source>
+        <target state="needs-translation">Laptop</target>
+        <note>Context: laptop</note>
+      </trans-unit>
+      <trans-unit id="381" identifier="91ee3b29ebd54a20ae790f6403cb73fe">
+        <source>A laptop shell</source>
+        <target state="needs-translation">A laptop shell</target>
+        <note>Context: laptop-desc</note>
+      </trans-unit>
+      <trans-unit id="382" identifier="72dc7cc0a33e5502ba20b5db5aba0f29">
+        <source>Front Panel</source>
+        <target state="needs-translation">Front Panel</target>
+        <note>Context: fpanel</note>
+      </trans-unit>
+      <trans-unit id="383" identifier="5f0fec682bc9fa28372b00f61ab0001f">
+        <source>That thing you smash with your foot trying to hit the &quot;ON&quot; button</source>
+        <target state="needs-translation">That thing you smash with your foot trying to hit the &quot;ON&quot; button</target>
+        <note>Context: fpanel-desc</note>
+      </trans-unit>
+      <trans-unit id="384" identifier="35442b5a57d8a24673ffa7b046bb4b2e">
+        <source>Portability</source>
+        <target state="needs-translation">Portability</target>
+        <note>Context: portab</note>
+      </trans-unit>
+      <trans-unit id="385" identifier="bf0fc406c3352d27b651a97770329021">
+        <source>Well, if it ain't portable, it ain't a laptop</source>
+        <target state="needs-translation">Well, if it ain't portable, it ain't a laptop</target>
+        <note>Context: portab-desc</note>
+      </trans-unit>
+      <trans-unit id="386" identifier="a5ca0b5894324f8bb54bb9fffad29d1e">
+        <source>Audio</source>
+        <target state="needs-translation">Audio</target>
+        <note>Context: audio</note>
+      </trans-unit>
+      <trans-unit id="387" identifier="38c14e7b2c6b432cd6e0a7d087481b32">
+        <source>Audio ports at the front of the computer are much more accessible.</source>
+        <target state="needs-translation">Audio ports at the front of the computer are much more accessible.</target>
+        <note>Context: audio-desc</note>
+      </trans-unit>
+      <trans-unit id="388" identifier="62ed973d963913bb55111a7b8116ace1">
+        <source>Universal Bus</source>
+        <target state="needs-translation">Universal Bus</target>
+        <note>Context: usb</note>
+      </trans-unit>
+      <trans-unit id="389" identifier="acb54d4134ab3284ac444321e6ce605a">
+        <source>Universal Bus ports at the front of a computer...</source>
+        <target state="needs-translation">Universal Bus ports at the front of a computer...</target>
+        <note>Context: usb-desc</note>
+      </trans-unit>
+      <trans-unit id="390" identifier="895e776f66b43eb57c1ec2bbe3011631">
+        <source>USB Type C</source>
+        <target state="needs-translation">USB Type C</target>
+        <note>Context: usbc</note>
+      </trans-unit>
+      <trans-unit id="391" identifier="11ab176b4fca7d3b461ec0e13a3a066b">
+        <source>Those fancy new reversible ports on the front!</source>
+        <target state="needs-translation">Those fancy new reversible ports on the front!</target>
+        <note>Context: usbc-desc</note>
+      </trans-unit>
+      <trans-unit id="392" identifier="0637ba0ba8dc4297e761638aa6a41ad6">
+        <source>Rear Panel</source>
+        <target state="needs-translation">Rear Panel</target>
+        <note>Context: rpanel</note>
+      </trans-unit>
+      <trans-unit id="393" identifier="09bbafb1af7a0201c0ec1483beef358e">
+        <source>That thing you plug into the things like power cord and other things</source>
+        <target state="needs-translation">That thing you plug into the things like power cord and other things</target>
+        <note>Context: rpanel-desc</note>
+      </trans-unit>
+      <trans-unit id="394" identifier="a6ecc376e809ac183749fe7b2126e419">
+        <source>Side Panels</source>
+        <target state="needs-translation">Side Panels</target>
+        <note>Context: spanel</note>
+      </trans-unit>
+      <trans-unit id="395" identifier="7575fc8b413472d199108a3ae6e84352">
+        <source>The thing that stops you electrocuting yourself using your PC.</source>
+        <target state="needs-translation">The thing that stops you electrocuting yourself using your PC.</target>
+        <note>Context: spanel-desc</note>
+      </trans-unit>
+      <trans-unit id="396" identifier="7538d5809e9cad538c8fec2a54b03e91">
+        <source>Side Panel Window</source>
+        <target state="needs-translation">Side Panel Window</target>
+        <note>Context: swpanel</note>
+      </trans-unit>
+      <trans-unit id="397" identifier="17b89143cf6445f748d5c8d7e252f86b">
+        <source>Wow! Now you can see all the cheap parts you bought for a better case!</source>
+        <target state="needs-translation">Wow! Now you can see all the cheap parts you bought for a better case!</target>
+        <note>Context: swpanel-desc</note>
+      </trans-unit>
+      <trans-unit id="398" identifier="66efd40ed02d61db66a5ed790d94bd30">
+        <source>RGB Lighting</source>
+        <target state="needs-translation">RGB Lighting</target>
+        <note>Context: rgbpanel</note>
+      </trans-unit>
+      <trans-unit id="399" identifier="4d36828e81b0d8b2e2d9218450f1faac">
+        <source>Wow! Now you can even illuminate your cheap, disgusting parts! YAY!</source>
+        <target state="needs-translation">Wow! Now you can even illuminate your cheap, disgusting parts! YAY!</target>
+        <note>Context: rgbpanel-desc</note>
+      </trans-unit>
+      <trans-unit id="400" identifier="2ee734ae32e7bde9c69252cfee0d1b98">
+        <source>Fixed Rails</source>
+        <target state="needs-translation">Fixed Rails</target>
+        <note>Context: fixedrail</note>
+      </trans-unit>
+      <trans-unit id="401" identifier="16776b27cc89a37dc6c75854bdece5b9">
+        <source>All servers need a way to mount them to the wall.  Rails are the easiest way to do this, as it allows for maintenance as well.</source>
+        <target state="needs-translation">All servers need a way to mount them to the wall.  Rails are the easiest way to do this, as it allows for maintenance as well.</target>
+        <note>Context: fixedrail-desc</note>
+      </trans-unit>
+      <trans-unit id="402" identifier="596ce582b8db604cdd71e9fd557c992b">
+        <source>Baker Rails</source>
+        <target state="needs-translation">Baker Rails</target>
+        <note>Context: bakerrail</note>
+      </trans-unit>
+      <trans-unit id="403" identifier="ec77677c85e1bc413aa1dec205eac044">
+        <source>&quot;Baker&quot; rails are ones that can be pulled out like a drawer, and be angled by up to 45 degrees to allow for working on a server while it's still plugged in.</source>
+        <target state="needs-translation">&quot;Baker&quot; rails are ones that can be pulled out like a drawer, and be angled by up to 45 degrees to allow for working on a server while it's still plugged in.</target>
+        <note>Context: bakerail-desc</note>
+      </trans-unit>
+      <trans-unit id="404" identifier="761af2b0ba5a5878140eadbf5716d1e3">
+        <source>Temp. Dials</source>
+        <target state="needs-translation">Temp. Dials</target>
+        <note>Context: tdial
+
+Temp. = Temperature</note>
+      </trans-unit>
+      <trans-unit id="405" identifier="c5a3840d4b46b2930f80bb57d1d52f62">
+        <source>Helps for overclockers, they get to see the temperature of various system components from the exterior of the case.</source>
+        <target state="needs-translation">Helps for overclockers, they get to see the temperature of various system components from the exterior of the case.</target>
+        <note>Context: tdial-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="25" original="/SoftwareTypes/P03. Graphics Card.xml" source-language="en-GB" target-language="el" datatype="plaintext">
+    <body>
+      <trans-unit id="406" identifier="98e7619839f8d8e850d4c4acbcbd6a9f">
+        <source>Graphics Card</source>
+        <target state="needs-translation">Graphics Card</target>
+        <note>Context: graphicscard</note>
+      </trans-unit>
+      <trans-unit id="407" identifier="85809998b11c739ff5f1dc687fd331b2">
+        <source>Create your own PCI Graphics Card</source>
+        <target state="needs-translation">Create your own PCI Graphics Card</target>
+        <note>Context: graphicscard-desc</note>
+      </trans-unit>
+      <trans-unit id="408" identifier="c21f969b5f03d33d43e04f8f136e7682">
+        <source>Default</source>
+        <target state="needs-translation">Default</target>
+        <note>Context: default</note>
+      </trans-unit>
+      <trans-unit id="409" identifier="06d5ff07384f19c0f72737f5e6ad5dc1">
+        <source>Still needs some balancing (v0.8+)</source>
+        <target state="needs-translation">Still needs some balancing (v0.8+)</target>
+        <note>Context: default-desc</note>
+      </trans-unit>
+      <trans-unit id="410" identifier="0aa0be2a866411d9ff03515227454947">
+        <source>GPU</source>
+        <target state="needs-translation">GPU</target>
+        <note>Context: gpu</note>
+      </trans-unit>
+      <trans-unit id="411" identifier="8a24a19c0e8b306aab90787d6a924fed">
+        <source>The Graphical Processing Unit(s), also known as Cores.</source>
+        <target state="needs-translation">The Graphical Processing Unit(s), also known as Cores.</target>
+        <note>Context: gpu-desc</note>
+      </trans-unit>
+      <trans-unit id="412" identifier="6c15c5bac7c2a252b31348740bc7d11f">
+        <source>GPU Boost</source>
+        <target state="needs-translation">GPU Boost</target>
+        <note>Context: gpuboost</note>
+      </trans-unit>
+      <trans-unit id="413" identifier="010d716e3ca3cd7200d3d8d2f3e11d32">
+        <source>GPU Boost is a new feature which is roughly analogous to turbo boosting of a CPU.</source>
+        <target state="needs-translation">GPU Boost is a new feature which is roughly analogous to turbo boosting of a CPU.</target>
+        <note>Context: gpuboost-desc</note>
+      </trans-unit>
+      <trans-unit id="414" identifier="ff6db186b9287e8d4bde11888ec52691">
+        <source>GPU Boost 2.0</source>
+        <target state="needs-translation">GPU Boost 2.0</target>
+        <note>Context: gpuboost2</note>
+      </trans-unit>
+      <trans-unit id="415" identifier="84c47ce7553ec0f58293fbb7bbfda475">
+        <source>GPU Boost 2.0 allow the GPU clock speed to increase indefinitely until a user-set temperature limit was reached without passing a user-specified maximum fan speed.</source>
+        <target state="needs-translation">GPU Boost 2.0 allow the GPU clock speed to increase indefinitely until a user-set temperature limit was reached without passing a user-specified maximum fan speed.</target>
+        <note>Context: gpuboost2-desc</note>
+      </trans-unit>
+      <trans-unit id="416" identifier="4d4c3c2f9616bc5171ec69f0edbcbf79">
+        <source>Video BIOS</source>
+        <target state="needs-translation">Video BIOS</target>
+        <note>Context: vbios</note>
+      </trans-unit>
+      <trans-unit id="417" identifier="138915ce3d08ccccb5ec237ed03d94c1">
+        <source>Well, whats it going to do without code?</source>
+        <target state="needs-translation">Well, whats it going to do without code?</target>
+        <note>Context: vbios-desc</note>
+      </trans-unit>
+      <trans-unit id="418" identifier="d8b5f63d6a38bd8fc4246cb7392c9510">
+        <source>Dual BIOS</source>
+        <target state="needs-translation">Dual BIOS</target>
+        <note>Context: dbios</note>
+      </trans-unit>
+      <trans-unit id="419" identifier="6f51e45a386c16aba855e7da30d0039b">
+        <source>Now featuring standard AND TURBO MODE.</source>
+        <target state="needs-translation">Now featuring standard AND TURBO MODE.</target>
+        <note>Context: dbios-desc</note>
+      </trans-unit>
+      <trans-unit id="420" identifier="4aa060977c7c1fd1234380e0b7a78b5d">
+        <source>VRAM (Video RAM)</source>
+        <target state="needs-translation">VRAM (Video RAM)</target>
+        <note>Context: vram</note>
+      </trans-unit>
+      <trans-unit id="421" identifier="158fea4f101e8b832901ca53daa58c64">
+        <source>Store things on the GPU!</source>
+        <target state="needs-translation">Store things on the GPU!</target>
+        <note>Context: vram-desc</note>
+      </trans-unit>
+      <trans-unit id="422" identifier="8f9f727e2ba69bcf6ca50e22cd4070f2">
+        <source>SDRAM</source>
+        <target state="needs-translation">SDRAM</target>
+        <note>Context: sdram</note>
+      </trans-unit>
+      <trans-unit id="423" identifier="f3cb28296cf2fc7ba7b3dd4a01c188c3">
+        <source>With extra speed.</source>
+        <target state="needs-translation">With extra speed.</target>
+        <note>Context: sdram-desc</note>
+      </trans-unit>
+      <trans-unit id="424" identifier="b9ce391e970ede27e9eb0c3f6ef3f274">
+        <source>DDR</source>
+        <target state="needs-translation">DDR</target>
+        <note>Context: ddr</note>
+      </trans-unit>
+      <trans-unit id="425" identifier="1e9cfb56937f8ad8a7f7a6a10b2456ea">
+        <source>More mhz included!</source>
+        <target state="needs-translation">More mhz included!</target>
+        <note>Context: ddr-desc</note>
+      </trans-unit>
+      <trans-unit id="426" identifier="e86f52e5b5f57c786bf17233aee9c615">
+        <source>DDR2</source>
+        <target state="needs-translation">DDR2</target>
+        <note>Context: ddr2</note>
+      </trans-unit>
+      <trans-unit id="427" identifier="37272c39237879f23d0541653fe63cef">
+        <source>DDR2 - coming to the mainstream.</source>
+        <target state="needs-translation">DDR2 - coming to the mainstream.</target>
+        <note>Context: ddr2-desc</note>
+      </trans-unit>
+      <trans-unit id="428" identifier="f2629ebac0fd5acebbf93a58159df29d">
+        <source>GDDR3</source>
+        <target state="needs-translation">GDDR3</target>
+        <note>Context: gddr3</note>
+      </trans-unit>
+      <trans-unit id="429" identifier="451997aa031e0e9b2b0c0c407724dd9f">
+        <source>- Added a new 'G' for GPU!</source>
+        <target state="needs-translation">- Added a new 'G' for GPU!</target>
+        <note>Context: gddr3-desc</note>
+      </trans-unit>
+      <trans-unit id="430" identifier="aa48c329027487296b5613aad3d9e2ef">
+        <source>GDDR4</source>
+        <target state="needs-translation">GDDR4</target>
+        <note>Context: gddr4</note>
+      </trans-unit>
+      <trans-unit id="431" identifier="b41f5f1b5960bfc6ad706054ee3e601f">
+        <source>The forgotten one.</source>
+        <target state="needs-translation">The forgotten one.</target>
+        <note>Context: gddr4-desc</note>
+      </trans-unit>
+      <trans-unit id="432" identifier="362618fa5b0d8997c991d9511e750b87">
+        <source>GDDR5</source>
+        <target state="needs-translation">GDDR5</target>
+        <note>Context: gddr5</note>
+      </trans-unit>
+      <trans-unit id="433" identifier="778802c0908b8d85e5b543211e5b4c90">
+        <source>The greatest invention since sliced bread.</source>
+        <target state="needs-translation">The greatest invention since sliced bread.</target>
+        <note>Context: gddr5-desc</note>
+      </trans-unit>
+      <trans-unit id="434" identifier="e65e9faeec18c95733e43fb7b188ad85">
+        <source>HBM1</source>
+        <target state="needs-translation">HBM1</target>
+        <note>Context: hbm</note>
+      </trans-unit>
+      <trans-unit id="435" identifier="137c2ebb62abfc0677cdad6414d2aac2">
+        <source>Operation 'Team Red' underway.</source>
+        <target state="needs-translation">Operation 'Team Red' underway.</target>
+        <note>Context: hbm-desc</note>
+      </trans-unit>
+      <trans-unit id="436" identifier="347f5f733d73c45511e9c633d08f9fc5">
+        <source>GDDR5X</source>
+        <target state="needs-translation">GDDR5X</target>
+        <note>Context: gddr5x</note>
+      </trans-unit>
+      <trans-unit id="437" identifier="fc1a25aa6c6356f05571a0d31fcf844e">
+        <source>Operation 'Green Revenge' is a go.</source>
+        <target state="needs-translation">Operation 'Green Revenge' is a go.</target>
+        <note>Context: gddr5x-desc</note>
+      </trans-unit>
+      <trans-unit id="438" identifier="a082c6794c5b835580450c659c1048a5">
+        <source>HBM2</source>
+        <target state="needs-translation">HBM2</target>
+        <note>Context: hbm2</note>
+      </trans-unit>
+      <trans-unit id="439" identifier="dbd11fd721df88a7477bcd0ff17ca6fb">
+        <source>The latest and greatest is here.</source>
+        <target state="needs-translation">The latest and greatest is here.</target>
+        <note>Context: hbm2-desc</note>
+      </trans-unit>
+      <trans-unit id="440" identifier="8d829c0a8bc7030417dff221df7e44d0">
+        <source>PCI Interface</source>
+        <target state="needs-translation">PCI Interface</target>
+        <note>Context: pci</note>
+      </trans-unit>
+      <trans-unit id="441" identifier="c1355458d9122c1fa6d06c08cc32ab7d">
+        <source>It plugs into a PCI Slot!</source>
+        <target state="needs-translation">It plugs into a PCI Slot!</target>
+        <note>Context: pci-desc</note>
+      </trans-unit>
+      <trans-unit id="442" identifier="ee8a0c8a0dad4871ff990e2ffbce605a">
+        <source>AGP</source>
+        <target state="needs-translation">AGP</target>
+        <note>Context: agp</note>
+      </trans-unit>
+      <trans-unit id="443" identifier="4803533fd5c49dd7c8ac0820109382d7">
+        <source>A bus dedicated to graphics adapters.</source>
+        <target state="needs-translation">A bus dedicated to graphics adapters.</target>
+        <note>Context: agp-desc</note>
+      </trans-unit>
+      <trans-unit id="444" identifier="f6fa7f85de76380642f5dbb46f37a389">
+        <source>AGP x8</source>
+        <target state="needs-translation">AGP x8</target>
+        <note>Context: agp8</note>
+      </trans-unit>
+      <trans-unit id="445" identifier="f82ebad283a407d7c4887808e494f34d">
+        <source>A bus dedicated to graphics adapters.</source>
+        <target state="needs-translation">A bus dedicated to graphics adapters.</target>
+        <note>Context: agp8-desc</note>
+      </trans-unit>
+      <trans-unit id="446" identifier="95b2b4712cc14bba12243b59888d7cac">
+        <source>PCI Express x16</source>
+        <target state="needs-translation">PCI Express x16</target>
+        <note>Context: pcie16</note>
+      </trans-unit>
+      <trans-unit id="447" identifier="78dc10ba3f61e6a83c18f549d42e7210">
+        <source>PCI Express is much faster! (40 Gbit/s)</source>
+        <target state="needs-translation">PCI Express is much faster! (40 Gbit/s)</target>
+        <note>Context: pcie16-desc</note>
+      </trans-unit>
+      <trans-unit id="448" identifier="edf1044beef111b29d7dd9a1d039c6c7">
+        <source>PCI-E 2.0 x16</source>
+        <target state="needs-translation">PCI-E 2.0 x16</target>
+        <note>Context: pcie216</note>
+      </trans-unit>
+      <trans-unit id="449" identifier="49ff68263ea3c0e0bcbbffc3a9478333">
+        <source>PCI-E 2.0 duplicate the bandwidth from the first version (80 Gbit/s)</source>
+        <target state="needs-translation">PCI-E 2.0 duplicate the bandwidth from the first version (80 Gbit/s)</target>
+        <note>Context: pcie216-desc</note>
+      </trans-unit>
+      <trans-unit id="450" identifier="17c16ba6b4b4d1d962cba6a09831bcd6">
+        <source>PCI-E 3.0 x16</source>
+        <target state="needs-translation">PCI-E 3.0 x16</target>
+        <note>Context: pcie316</note>
+      </trans-unit>
+      <trans-unit id="451" identifier="25f60a798cc0043d159e336843545aee">
+        <source>PCI-E 3.0 upgrades the encoding scheme to 128b/130b, reducing the bandwidth overhead from 20% of PCIE 2.0 to approximately 1.54% (128 Gbit/s)</source>
+        <target state="needs-translation">PCI-E 3.0 upgrades the encoding scheme to 128b/130b, reducing the bandwidth overhead from 20% of PCIE 2.0 to approximately 1.54% (128 Gbit/s)</target>
+        <note>Context: pcie316-desc</note>
+      </trans-unit>
+      <trans-unit id="452" identifier="9970eccc3d6d77c3d3a58f1c86e935e4">
+        <source>PCI-E 4.0 x16</source>
+        <target state="needs-translation">PCI-E 4.0 x16</target>
+        <note>Context: pcie416</note>
+      </trans-unit>
+      <trans-unit id="453" identifier="e7b32d745cd74140fed10ba10b2cd749">
+        <source>PCI-E 4.0 duplicate the bandwidth from the third version (256 Gbit/s)</source>
+        <target state="needs-translation">PCI-E 4.0 duplicate the bandwidth from the third version (256 Gbit/s)</target>
+        <note>Context: pcie416-desc</note>
+      </trans-unit>
+      <trans-unit id="454" identifier="60415f6a67d52289aa2524df6f33a1c2">
+        <source>SLl Support</source>
+        <target state="needs-translation">SLl Support</target>
+        <note>Context: sli</note>
+      </trans-unit>
+      <trans-unit id="455" identifier="19ab6dbe36e9af1c498c66b2ee10541a">
+        <source>Allows people to put two or more graphics cards together.</source>
+        <target state="needs-translation">Allows people to put two or more graphics cards together.</target>
+        <note>Context: sli-desc</note>
+      </trans-unit>
+      <trans-unit id="456" identifier="3a6bdba8fb33a88cf7d52a1af07a9c00">
+        <source>Decoder Block</source>
+        <target state="needs-translation">Decoder Block</target>
+        <note>Context: decoder</note>
+      </trans-unit>
+      <trans-unit id="457" identifier="ac372ec70cb4393699a6d308242e9520">
+        <source>Hardware decode your videos putting less strain on the CPU!</source>
+        <target state="needs-translation">Hardware decode your videos putting less strain on the CPU!</target>
+        <note>Context: decoder-desc</note>
+      </trans-unit>
+      <trans-unit id="458" identifier="667d63b1297cd6d48a6cafca4a91a293">
+        <source>MPEG-1/MPEG-2</source>
+        <target state="needs-translation">MPEG-1/MPEG-2</target>
+        <note>Context: mpeg12</note>
+      </trans-unit>
+      <trans-unit id="459" identifier="27eb570127d846b26cbfeaa1cbbda17d">
+        <source>A better decoder for your favourite videos.</source>
+        <target state="needs-translation">A better decoder for your favourite videos.</target>
+        <note>Context: mpeg12-desc</note>
+      </trans-unit>
+      <trans-unit id="460" identifier="10dc9f554d16c87ec54b127438551658">
+        <source>H.264/VC-1</source>
+        <target state="needs-translation">H.264/VC-1</target>
+        <note>Context: h264</note>
+      </trans-unit>
+      <trans-unit id="461" identifier="0b18e1d21d99f1c85caf2c9f211fdd74">
+        <source>The smartest decoder.</source>
+        <target state="needs-translation">The smartest decoder.</target>
+        <note>Context: h264-desc</note>
+      </trans-unit>
+      <trans-unit id="462" identifier="169a7874d85e207874d2ddb620b9da86">
+        <source>H.264+</source>
+        <target state="needs-translation">H.264+</target>
+        <note>Context: h2642</note>
+      </trans-unit>
+      <trans-unit id="463" identifier="f6a77d957155512114b9bbe53c1097e6">
+        <source>The smarter smartest decoder?!</source>
+        <target state="needs-translation">The smarter smartest decoder?!</target>
+        <note>Context: h2642-desc</note>
+      </trans-unit>
+      <trans-unit id="464" identifier="f832ed6c29df741eea1a38cd16ec1780">
+        <source>H.265</source>
+        <target state="needs-translation">H.265</target>
+        <note>Context: h265</note>
+      </trans-unit>
+      <trans-unit id="465" identifier="21d91e5826b15a8d09bc4b7dee20c644">
+        <source>Truly the best.</source>
+        <target state="needs-translation">Truly the best.</target>
+        <note>Context: h265-desc</note>
+      </trans-unit>
+      <trans-unit id="466" identifier="724a00e315992b82d662231ea0dcbe50">
+        <source>Encoder Block</source>
+        <target state="needs-translation">Encoder Block</target>
+        <note>Context: encoder</note>
+      </trans-unit>
+      <trans-unit id="467" identifier="eff69686ed717ba49e04e5abc11a42fa">
+        <source>Encode your videos!</source>
+        <target state="needs-translation">Encode your videos!</target>
+        <note>Context: encoder-desc</note>
+      </trans-unit>
+      <trans-unit id="468" identifier="e80e2aa9981470726ce6ab6f17c9b6a8">
+        <source>H.264 1080p60</source>
+        <target state="needs-translation">H.264 1080p60</target>
+        <note>Context: h2641080</note>
+      </trans-unit>
+      <trans-unit id="469" identifier="5e11a30652380c0c2ba938e49c705762">
+        <source>But even faster encoding!</source>
+        <target state="needs-translation">But even faster encoding!</target>
+        <note>Context: h2641080-desc</note>
+      </trans-unit>
+      <trans-unit id="470" identifier="6e5138d1181ca956be84f88f683afce5">
+        <source>H.264/H.265 4Kp60</source>
+        <target state="needs-translation">H.264/H.265 4Kp60</target>
+        <note>Context: h2644k</note>
+      </trans-unit>
+      <trans-unit id="471" identifier="4a17a1db1e3fb1db10853354fb0e1665">
+        <source>Now in Ultra High Definition.</source>
+        <target state="needs-translation">Now in Ultra High Definition.</target>
+        <note>Context: h2644k-desc</note>
+      </trans-unit>
+      <trans-unit id="472" identifier="3686ed78e29e8396958ab998376d1ea5">
+        <source>Heatsink</source>
+        <target state="needs-translation">Heatsink</target>
+        <note>Context: heatsink</note>
+      </trans-unit>
+      <trans-unit id="473" identifier="56c94e63b28d9286e5820dcf437c071e">
+        <source>Giant block of copper</source>
+        <target state="needs-translation">Giant block of copper</target>
+        <note>Context: heatsink-desc</note>
+      </trans-unit>
+      <trans-unit id="474" identifier="09ab88e3bb50b33d954015801b3354f8">
+        <source>Heatpipes</source>
+        <target state="needs-translation">Heatpipes</target>
+        <note>Context: heatpipes</note>
+      </trans-unit>
+      <trans-unit id="475" identifier="b128c35ce07f433220aad148f8e59d5e">
+        <source>A more intricated block of copper</source>
+        <target state="needs-translation">A more intricated block of copper</target>
+        <note>Context: heatpipes-desc</note>
+      </trans-unit>
+      <trans-unit id="476" identifier="0db441f53ff328fee5e3f094798842e1">
+        <source>Heat Fins</source>
+        <target state="needs-translation">Heat Fins</target>
+        <note>Context: heatfins</note>
+      </trans-unit>
+      <trans-unit id="477" identifier="94f0613fcb1424bd396d3b9ffc4004ca">
+        <source>A sophisticated intricated for your block of copper</source>
+        <target state="needs-translation">A sophisticated intricated for your block of copper</target>
+        <note>Context: heatfins-desc</note>
+      </trans-unit>
+      <trans-unit id="478" identifier="1ed1645edd706dc379effe13f3edcacf">
+        <source>Fans</source>
+        <target state="needs-translation">Fans</target>
+        <note>Context: fans</note>
+      </trans-unit>
+      <trans-unit id="479" identifier="5608c3c49e1abe5c298fdb8bb2d0c5c9">
+        <source>More intelligent cooling for your egg pan.</source>
+        <target state="needs-translation">More intelligent cooling for your egg pan.</target>
+        <note>Context: fans-desc</note>
+      </trans-unit>
+      <trans-unit id="480" identifier="24f841c0129b7f067cef5e7f7b679aa0">
+        <source>Water Cooling</source>
+        <target state="needs-translation">Water Cooling</target>
+        <note>Context: watercool</note>
+      </trans-unit>
+      <trans-unit id="481" identifier="5c4755e1142fa35da91865154ec6e616">
+        <source>Pass your water cooling into your graphics card.</source>
+        <target state="needs-translation">Pass your water cooling into your graphics card.</target>
+        <note>Context: watercool-desc</note>
+      </trans-unit>
+      <trans-unit id="482" identifier="63ebb9250f49340aece8d4ac541eaf61">
+        <source>Nitrogen</source>
+        <target state="needs-translation">Nitrogen</target>
+        <note>Context: nitrogen</note>
+      </trans-unit>
+      <trans-unit id="483" identifier="5b4930f831f7f028a7360cde5d7fbddb">
+        <source>Don't freeze.</source>
+        <target state="needs-translation">Don't freeze.</target>
+        <note>Context: nitrogen-desc</note>
+      </trans-unit>
+      <trans-unit id="484" identifier="8a5da52ed126447d359e70c05721a8aa">
+        <source>API's Support</source>
+        <target state="needs-translation">API's Support</target>
+        <note>Context: api</note>
+      </trans-unit>
+      <trans-unit id="485" identifier="222d24f89e13cc69e11f5b94aead7bff">
+        <source>FutureProofing</source>
+        <target state="needs-translation">FutureProofing</target>
+        <note>Context: api-desc</note>
+      </trans-unit>
+      <trans-unit id="486" identifier="a9fd6347608dab0c518e601b176cf896">
+        <source>DirectX Early Version</source>
+        <target state="needs-translation">DirectX Early Version</target>
+        <note>Context: directx</note>
+      </trans-unit>
+      <trans-unit id="487" identifier="777e545b57f529840bba72c475653524">
+        <source>Execute Buffer, Multitexture, etc.</source>
+        <target state="needs-translation">Execute Buffer, Multitexture, etc.</target>
+        <note>Context: directx-desc</note>
+      </trans-unit>
+      <trans-unit id="488" identifier="e184a3f707afd62cd4b37df332abf6e3">
+        <source>DX 7.1</source>
+        <target state="needs-translation">DX 7.1</target>
+        <note>Context: directx7</note>
+      </trans-unit>
+      <trans-unit id="489" identifier="c124a040787105a76b810ac4f0272fe9">
+        <source>Transform, clipping, and lighting (T and L)</source>
+        <target state="needs-translation">Transform, clipping, and lighting (T and L)</target>
+        <note>Context: directx7-desc</note>
+      </trans-unit>
+      <trans-unit id="490" identifier="a7b7ad74024416a9b53c13701f4f02eb">
+        <source>DX 8.1</source>
+        <target state="needs-translation">DX 8.1</target>
+        <note>Context: directx8</note>
+      </trans-unit>
+      <trans-unit id="491" identifier="61f8deebf272e3f1465d7e5200e14ffe">
+        <source>Pixel and Vertex Shaders, Fog, Bump Mapping, etc.</source>
+        <target state="needs-translation">Pixel and Vertex Shaders, Fog, Bump Mapping, etc.</target>
+        <note>Context: directx8-desc</note>
+      </trans-unit>
+      <trans-unit id="492" identifier="49933385190f8549f4a6cfdeb0ce1877">
+        <source>DX 9.0c</source>
+        <target state="needs-translation">DX 9.0c</target>
+        <note>Context: directx9</note>
+      </trans-unit>
+      <trans-unit id="493" identifier="f865894bb384bbaef4522c9750d85d2a">
+        <source>Shader Model 3.0, Multiple Render Targets, etc.</source>
+        <target state="needs-translation">Shader Model 3.0, Multiple Render Targets, etc.</target>
+        <note>Context: directx9-desc</note>
+      </trans-unit>
+      <trans-unit id="494" identifier="88f0dd62cb7195bad2b241bc7006b077">
+        <source>DX 10</source>
+        <target state="needs-translation">DX 10</target>
+        <note>Context: directx10</note>
+      </trans-unit>
+      <trans-unit id="495" identifier="8417f0dee6724dd18ab8c09604d9e764">
+        <source>Shader Model 4.0, Geometry shaders, etc.</source>
+        <target state="needs-translation">Shader Model 4.0, Geometry shaders, etc.</target>
+        <note>Context: directx10-desc</note>
+      </trans-unit>
+      <trans-unit id="496" identifier="306389948c584f6e2da6c3631fe2b443">
+        <source>DX 11</source>
+        <target state="needs-translation">DX 11</target>
+        <note>Context: directx11</note>
+      </trans-unit>
+      <trans-unit id="497" identifier="2a0710f16bfe3ae1a9abbba06a6a5fdd">
+        <source>Shader Model 5.0, Tessellation, Multithreaded rendering, Compute shaders, etc.</source>
+        <target state="needs-translation">Shader Model 5.0, Tessellation, Multithreaded rendering, Compute shaders, etc.</target>
+        <note>Context: directx11-desc</note>
+      </trans-unit>
+      <trans-unit id="498" identifier="22104f1ea8a05254d6cfad9564e4d23c">
+        <source>DX 12</source>
+        <target state="needs-translation">DX 12</target>
+        <note>Context: directx12</note>
+      </trans-unit>
+      <trans-unit id="499" identifier="095ff5da3b2ffccad6021987d1d06391">
+        <source>Shader Model 5.1, Low-level API, UAV, ROV, Async Shaders, etc.</source>
+        <target state="needs-translation">Shader Model 5.1, Low-level API, UAV, ROV, Async Shaders, etc.</target>
+        <note>Context: directx12-desc</note>
+      </trans-unit>
+      <trans-unit id="500" identifier="b41ad472c665023481f48309062183d4">
+        <source>OpenGL 1.2</source>
+        <target state="needs-translation">OpenGL 1.2</target>
+        <note>Context: opengl12</note>
+      </trans-unit>
+      <trans-unit id="501" identifier="94a61b1791d44246342a427ee780f481">
+        <source>Imaging Subset, Three-dimensional texturing, etc.</source>
+        <target state="needs-translation">Imaging Subset, Three-dimensional texturing, etc.</target>
+        <note>Context: opengl12-desc</note>
+      </trans-unit>
+      <trans-unit id="502" identifier="9938ec18362dc4badf5f8bf7e624bdc8">
+        <source>OpenGL 1.3</source>
+        <target state="needs-translation">OpenGL 1.3</target>
+        <note>Context: opengl13</note>
+      </trans-unit>
+      <trans-unit id="503" identifier="503511af3223670f91e03b66953133e3">
+        <source>Cube-mapped texturing, MSAA Framework, etc.</source>
+        <target state="needs-translation">Cube-mapped texturing, MSAA Framework, etc.</target>
+        <note>Context: opengl13-desc</note>
+      </trans-unit>
+      <trans-unit id="504" identifier="5117db0286b78fb5538a3650dc9cdbb8">
+        <source>OpenGL 1.5</source>
+        <target state="needs-translation">OpenGL 1.5</target>
+        <note>Context: opengl15</note>
+      </trans-unit>
+      <trans-unit id="505" identifier="61e5f4fdbc064bf3e068a03dfb05bd0c">
+        <source>GLSL extension, Depth Texture, Stencil Wrap, etc.</source>
+        <target state="needs-translation">GLSL extension, Depth Texture, Stencil Wrap, etc.</target>
+        <note>Context: opengl15-desc</note>
+      </trans-unit>
+      <trans-unit id="506" identifier="3c46bbcc3a8b8dd2cfb01d9f39826133">
+        <source>OpenGL 2.1</source>
+        <target state="needs-translation">OpenGL 2.1</target>
+        <note>Context: opengl21</note>
+      </trans-unit>
+      <trans-unit id="507" identifier="5a0f16432d5ccc45b6ba79d5f1250381">
+        <source>GLSL integrated</source>
+        <target state="needs-translation">GLSL integrated</target>
+        <note>Context: opengl21-desc</note>
+      </trans-unit>
+      <trans-unit id="508" identifier="01b0d8c994f9b844cf9676c3b74e5a5a">
+        <source>OpenGL 3.3</source>
+        <target state="needs-translation">OpenGL 3.3</target>
+        <note>Context: opengl33</note>
+      </trans-unit>
+      <trans-unit id="509" identifier="4647cecbe9a6879516d7fd811fdb033a">
+        <source>Target DX10 Hardware, Geometry shaders, etc.</source>
+        <target state="needs-translation">Target DX10 Hardware, Geometry shaders, etc.</target>
+        <note>Context: opengl33-desc</note>
+      </trans-unit>
+      <trans-unit id="510" identifier="90c032ab17c655dbd2b91bf76e0008ca">
+        <source>OpenGL 4.5</source>
+        <target state="needs-translation">OpenGL 4.5</target>
+        <note>Context: opengl45</note>
+      </trans-unit>
+      <trans-unit id="511" identifier="6ae6cb507278fb93b984c91523f2e718">
+        <source>Target DX11 Hardware, Compute shaders, etc.</source>
+        <target state="needs-translation">Target DX11 Hardware, Compute shaders, etc.</target>
+        <note>Context: opengl45-desc</note>
+      </trans-unit>
+      <trans-unit id="512" identifier="8473f19e6529e22157459e75b4cbf485">
+        <source>Vulkan</source>
+        <target state="needs-translation">Vulkan</target>
+        <note>Context: vulkan</note>
+      </trans-unit>
+      <trans-unit id="513" identifier="57c48dea79644bd5ef61c59988fecb61">
+        <source>Low-level API, UAV, ROV, Async Shaders, etc.</source>
+        <target state="needs-translation">Low-level API, UAV, ROV, Async Shaders, etc.</target>
+        <note>Context: vulkan-desc</note>
+      </trans-unit>
+      <trans-unit id="514" identifier="560458620896d660be778852876ce23d">
+        <source>Display Connectors</source>
+        <target state="needs-translation">Display Connectors</target>
+        <note>Context: displayconn</note>
+      </trans-unit>
+      <trans-unit id="515" identifier="b8a6e7983bf5b9b614c1853c1b326e80">
+        <source>How else are the damn displays gonna go in?</source>
+        <target state="needs-translation">How else are the damn displays gonna go in?</target>
+        <note>Context: displayconn-desc</note>
+      </trans-unit>
+      <trans-unit id="516" identifier="ba0ffa371333a70be28c4071c6e65208">
+        <source>VGA</source>
+        <target state="needs-translation">VGA</target>
+        <note>Context: vga</note>
+      </trans-unit>
+      <trans-unit id="517" identifier="6f6661b08c722f9ceba73e432ce8ffaa">
+        <source>In glorious 640x480</source>
+        <target state="needs-translation">In glorious 640x480</target>
+        <note>Context: vga-desc</note>
+      </trans-unit>
+      <trans-unit id="518" identifier="dac4eef82d8ac0acdf17f321d36b9f11">
+        <source>DVI</source>
+        <target state="needs-translation">DVI</target>
+        <note>Context: dvi</note>
+      </trans-unit>
+      <trans-unit id="519" identifier="d9dae4c2b103e100384cfe1a9e9c782a">
+        <source>Limitless* *Upto 2560x1440, but who would ever need more?</source>
+        <target state="needs-translation">Limitless* *Upto 2560x1440, but who would ever need more?</target>
+        <note>Context: dvi-desc</note>
+      </trans-unit>
+      <trans-unit id="520" identifier="59430b366911f93d1d0ae4049587a5c1">
+        <source>HDMI 1.4</source>
+        <target state="needs-translation">HDMI 1.4</target>
+        <note>Context: hdmi</note>
+      </trans-unit>
+      <trans-unit id="521" identifier="f7974daa12a053dc8c00097239d83f17">
+        <source>High Definition Media Interface, a standard.</source>
+        <target state="needs-translation">High Definition Media Interface, a standard.</target>
+        <note>Context: hdmi-desc</note>
+      </trans-unit>
+      <trans-unit id="522" identifier="e5b8411874613457770c5f3db62e7c4b">
+        <source>HDMI 2.0</source>
+        <target state="needs-translation">HDMI 2.0</target>
+        <note>Context: hdmi2</note>
+      </trans-unit>
+      <trans-unit id="523" identifier="9c92d13a5d44a1f668a227ddb99e2867">
+        <source>Now supporting 4k at 60fps.</source>
+        <target state="needs-translation">Now supporting 4k at 60fps.</target>
+        <note>Context: hdmi2-desc</note>
+      </trans-unit>
+      <trans-unit id="524" identifier="a2d38f91320b2546e2e982f05ee050c2">
+        <source>DisplayPort</source>
+        <target state="needs-translation">DisplayPort</target>
+        <note>Context: displayport</note>
+      </trans-unit>
+      <trans-unit id="525" identifier="910bc574f6319b30014e6f2e4b7d18f4">
+        <source>For faster speed.</source>
+        <target state="needs-translation">For faster speed.</target>
+        <note>Context: displayport-desc</note>
+      </trans-unit>
+      <trans-unit id="526" identifier="551aebd49dc322fa362b55fd09f50dff">
+        <source>Adaptive Sync</source>
+        <target state="needs-translation">Adaptive Sync</target>
+        <note>Context: adaptsync</note>
+      </trans-unit>
+      <trans-unit id="527" identifier="523a57d79d2e7742ace94891aaeb6446">
+        <source>You can't have 60fps rock solid? No problem, Adaptive Sync is here!</source>
+        <target state="needs-translation">You can't have 60fps rock solid? No problem, Adaptive Sync is here!</target>
+        <note>Context: adaptsync-desc</note>
+      </trans-unit>
+      <trans-unit id="528" identifier="4ccdcbc7ec60819cfb8bca1c20862b69">
+        <source>HDR Support</source>
+        <target state="needs-translation">HDR Support</target>
+        <note>Context: hdr</note>
+      </trans-unit>
+      <trans-unit id="529" identifier="cdf0ee87dd5611e46780719d33534d8e">
+        <source>We need more than pixels, we need BETTER pixels (c) AMD</source>
+        <target state="needs-translation">We need more than pixels, we need BETTER pixels (c) AMD</target>
+        <note>Context: hdr-desc</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
