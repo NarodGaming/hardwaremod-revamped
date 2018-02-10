@@ -165,3 +165,5 @@
 			<CodeArt>0.5</CodeArt>
 			<Dependency Software="ARM System-On-A-Chip">Single Core</Dependency>
 		</Feature>
+	</Features>
+</SoftwareType>
