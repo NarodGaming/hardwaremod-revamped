@@ -135,7 +135,7 @@
     <Feature From="Heat Spreaders" Vital="TRUE">
       <Name>Heat Pipes</Name>
       <Category>Physical</Category>
-      <Description>Probably gives the most heat dissapation</Description>
+      <Description>Probably gives the most heat dissipation</Description>
       <Unlock>1985</Unlock>
       <DevTime>6</DevTime>
       <Innovation>3</Innovation>
@@ -146,7 +146,7 @@
     <Feature From="Heat Pipes" Forced="FALSE">
       <Name>Heat Fins</Name>
       <Category>Physical</Category>
-      <Description>Most definitely gives the most heat dissapation.</Description>
+      <Description>Most definitely gives the most heat dissipation.</Description>
       <Unlock>1995</Unlock>
       <DevTime>9</DevTime>
       <Innovation>6</Innovation>
@@ -157,7 +157,7 @@
     <Feature Forced="FALSE" Vital="TRUE">
       <Name>Thermal Paste</Name>
       <Category>Physical</Category>
-      <Description>Help to transfer heat from CPU to the cooler</Description>
+      <Description>Helps transferring heat from CPU to the cooler</Description>
       <Unlock>1970</Unlock>
       <DevTime>2</DevTime>
       <Innovation>1</Innovation>
@@ -294,7 +294,7 @@
     <Feature From="Power Efficiency">
       <Name>25%</Name>
       <Category>Physical</Category>
-      <Description>One giant leap in... making things smaller?  Using smaller and smaller components has net a considerable power and efficiency increase.</Description>
+      <Description>One giant leap in... making things smaller?  Using smaller and smaller components nets a considerable power and heat efficiency increase.</Description>
       <Unlock>1998</Unlock>
       <DevTime>6</DevTime>
       <Innovation>1</Innovation>
@@ -305,7 +305,7 @@
     <Feature Research="Power Efficiency">
       <Name>35%</Name>
       <Category>Physical</Category>
-      <Description>Yes, it really did take you four years to figure out how to save even ten percent more power on the chips themselves, you didn't want to sacrifice performance.</Description>
+      <Description>Yes, it really did take you four years to figure out how to save even ten percent more power on the chips themselves, because you didn't want to sacrifice performance.</Description>
       <Unlock>2002</Unlock>
       <DevTime>9</DevTime>
       <Innovation>3</Innovation>

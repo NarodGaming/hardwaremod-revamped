@@ -49,7 +49,7 @@
   <string name="pcie316-desc">PCI-E 3.0 upgrades the encoding scheme to 128b/130b, reducing the bandwidth overhead from 20% of PCIE 2.0 to approximately 1.54% (128 Gbit/s)</string>
   <string name="pcie416">PCI-E 4.0 x16</string>
   <string name="pcie416-desc">PCI-E 4.0 duplicate the bandwidth from the third version (256 Gbit/s)</string>
-  <string name="sli">SLl Support</string>
+  <string name="sli">SLI Support</string>
   <string name="sli-desc">Allows people to put two or more graphics cards together.</string>
   <string name="decoder">Decoder Block</string>
   <string name="decoder-desc">Hardware decode your videos putting less strain on the CPU!</string>

@@ -4,7 +4,7 @@
   <Description>Create your own Computer</Description>
   <Categories>
     <Category Name="Consumer">
-      <Description>Geared towards individuals, these less powerful computeres are easier to make; but consumers replace them fairly often.</Description>
+      <Description>Geared towards individuals, these less powerful computers are easier to make, but consumers replace them fairly often.</Description>
       <Unlock>0</Unlock>
       <Popularity>0.8</Popularity>
       <TimeScale>1.0</TimeScale>
@@ -13,7 +13,7 @@
       <NameGenerator>names</NameGenerator>
     </Category>
     <Category Name="Server">
-      <Description>Geared towards businesses, these more powerful computeres are harer to make and must be stable; but businesses don't upgrade often.</Description>
+      <Description>Geared towards businesses, these more powerful computers are harder to make and must be stable, but businesses don't upgrade often.</Description>
       <Unlock>0</Unlock>
       <Popularity>0.7</Popularity>
       <TimeScale>1.3</TimeScale>
@@ -231,30 +231,30 @@
     <Feature From="Graphics Card" Vital="TRUE">
       <Name>Dual Graphics</Name>
       <Category>Physical</Category>
-      <Description>Requires Graphics Cards and a Motherboard that all support SLl, which allows you to use more than one of them.</Description>
+      <Description>Requires Graphics Cards and a Motherboard that both support SLI, which allows you to use more than one of them.</Description>
       <Unlock>2004</Unlock>
       <DevTime>7</DevTime>
       <Innovation>20</Innovation>
       <Usability>35</Usability>
       <Stability>10</Stability>
       <CodeArt>0.35</CodeArt>
-      <Dependency Software="Motherboard">SLl Support</Dependency>
-      <Dependency Software="Graphics Card">SLl Support</Dependency>
+      <Dependency Software="Motherboard">SLI Support</Dependency>
+      <Dependency Software="Graphics Card">SLI Support</Dependency>
       <SoftwareCategory Category="Consumer">0</SoftwareCategory>
       <SoftwareCategory Category="Server">2006</SoftwareCategory>
     </Feature>
     <Feature From="Dual Graphics">
       <Name>Triple Graphics</Name>
       <Category>Physical</Category>
-      <Description>Requires Graphics Cards and a Motherboard that all support triple SLl, which allows you to use up to three Graphics cards.</Description>
+      <Description>Requires Graphics Cards and a Motherboard that both support triple SLI, which allows you to use up to three Graphics cards.</Description>
       <Unlock>2006</Unlock>
       <DevTime>11</DevTime>
       <Innovation>20</Innovation>
       <Usability>50</Usability>
       <Stability>10</Stability>
       <CodeArt>0.35</CodeArt>
-      <Dependency Software="Motherboard">Triple SLl</Dependency>
-      <Dependency Software="Graphics Card">SLl Support</Dependency>
+      <Dependency Software="Motherboard">Triple SLI</Dependency>
+      <Dependency Software="Graphics Card">SLI Support</Dependency>
       <SoftwareCategory Category="Consumer">0</SoftwareCategory>
       <SoftwareCategory Category="Server">2008</SoftwareCategory>
     </Feature>
@@ -268,8 +268,8 @@
       <Usability>75</Usability>
       <Stability>20</Stability>
       <CodeArt>0.35</CodeArt>
-      <Dependency Software="Motherboard">Quad SLl</Dependency>
-      <Dependency Software="Graphics Card">SLl Support</Dependency>
+      <Dependency Software="Motherboard">Quad SLI</Dependency>
+      <Dependency Software="Graphics Card">SLI Support</Dependency>
       <SoftwareCategory Category="Consumer">0</SoftwareCategory>
       <SoftwareCategory Category="Server">2010</SoftwareCategory>
     </Feature>

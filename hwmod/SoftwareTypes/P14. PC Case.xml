@@ -22,7 +22,7 @@
       <NameGenerator>names</NameGenerator>
     </Category>
 	<Category Name="Laptop">
-	  <Description>A laptop shell</Description>
+	  <Description>A laptop shell.</Description>
 	  <Unlock>1995</Unlock>
 	  <Popularity>0.9</Popularity>
 	  <TimeScale>0.8</TimeScale>
@@ -78,7 +78,7 @@
     <Feature Vital="TRUE">
       <Name>Universal Bus</Name>
       <Category>Physical</Category>
-      <Description>Universal Bus ports at the front of a computer...</Description>
+      <Description>Universal Bus ports at the front of a computer.</Description>
       <Unlock>1996</Unlock>
       <DevTime>4</DevTime>
       <Innovation>5</Innovation>

@@ -415,7 +415,7 @@
       <Dependency Software="Motherboard">PCI Slots</Dependency>
     </Feature>
     <Feature From="PCI Express" Vital="TRUE">
-      <Name>SLl Support</Name>
+      <Name>SLI Support</Name>
       <Category>2D</Category>
       <Description>Allows for the use of two graphics cards.</Description>
       <Unlock>2004</Unlock>
@@ -426,8 +426,8 @@
       <CodeArt>0.5</CodeArt>
       <Dependency Software="Motherboard">PCI Express</Dependency>
     </Feature>
-    <Feature From="SLl Support" Vital="FALSE">
-      <Name>Triple SLl</Name>
+    <Feature From="SLI Support" Vital="FALSE">
+      <Name>Triple SLI</Name>
       <Category>3D</Category>
       <Description>Now you can fit three graphics cards.</Description>
       <Unlock>2006</Unlock>
@@ -438,8 +438,8 @@
       <CodeArt>0.5</CodeArt>
       <Dependency Software="Motherboard">PCI Express</Dependency>
     </Feature>
-    <Feature From="Triple SLl" Vital="FALSE">
-      <Name>Quad SLl</Name>
+    <Feature From="Triple SLI" Vital="FALSE">
+      <Name>Quad SLI</Name>
       <Category>3D</Category>
       <Description>FOUR THE GRPAHIC!S</Description>
       <Unlock>2009</Unlock>

@@ -1069,8 +1069,8 @@
         <note>Context: pcie-desc</note>
       </trans-unit>
       <trans-unit id="250" identifier="60a6d39c610fa0d6d5251a78dca8d95e" approved="yes">
-        <source>SLl Support</source>
-        <target>Υποστήριξη ΑΕΥ (SLl)</target>
+        <source>SLI Support</source>
+        <target>Υποστήριξη ΑΕΥ (SLI)</target>
         <note>Context: 2sli</note>
       </trans-unit>
       <trans-unit id="251" identifier="b9d3d42f44517be574a0ebdb223bd6d3" approved="yes">
@@ -1079,8 +1079,8 @@
         <note>Context: 2sli-desc</note>
       </trans-unit>
       <trans-unit id="252" identifier="0dd544edae5b30177b8feb96209fda5f" approved="yes">
-        <source>Triple SLl</source>
-        <target>Τριπλό ΑΕΥ (SLl)</target>
+        <source>Triple SLI</source>
+        <target>Τριπλό ΑΕΥ (SLI)</target>
         <note>Context: 3sli</note>
       </trans-unit>
       <trans-unit id="253" identifier="e2ec1a7127116b0ae96df2369d0f1e04" approved="yes">
@@ -1089,8 +1089,8 @@
         <note>Context: 3sli-desc</note>
       </trans-unit>
       <trans-unit id="254" identifier="114aaa182a4da6e95a3479a898b2b058" approved="yes">
-        <source>Quad SLl</source>
-        <target>Τετραπλό ΑΕΥ (SLl)</target>
+        <source>Quad SLI</source>
+        <target>Τετραπλό ΑΕΥ (SLI)</target>
         <note>Context: 4sli</note>
       </trans-unit>
       <trans-unit id="255" identifier="0f4a6ad3018839d6a026e52fef6714d1" approved="yes">
@@ -2107,8 +2107,8 @@ Temp. = Temperature</note>
         <note>Context: pcie416-desc</note>
       </trans-unit>
       <trans-unit id="454" identifier="60415f6a67d52289aa2524df6f33a1c2">
-        <source>SLl Support</source>
-        <target state="needs-translation">SLl Support</target>
+        <source>SLI Support</source>
+        <target state="needs-translation">SLI Support</target>
         <note>Context: sli</note>
       </trans-unit>
       <trans-unit id="455" identifier="19ab6dbe36e9af1c498c66b2ee10541a">

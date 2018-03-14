@@ -273,7 +273,7 @@
       <Dependency Software="Motherboard">PCI Express</Dependency>
     </Feature>
     <Feature Forced="FALSE" Vital="TRUE">
-      <Name>SLl Support</Name>
+      <Name>SLI Support</Name>
       <Category>Physical</Category>
       <Description>Allows people to put two or more graphics cards together.</Description>
       <Unlock>2004</Unlock>

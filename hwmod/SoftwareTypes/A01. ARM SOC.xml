@@ -98,7 +98,7 @@
 	   <Feature Research="Octa Core">
 		<Name>big.LITTLE Architecture</Name>
 		<Category>System</Category>
-		<Description>Saving power whilst offering more peformance? Wow!</Description>
+		<Description>Saving power whilst offering more performance? Wow!</Description>
 		<DevTime>4</DevTime>
 		<Unlock>2015</Unlock>
 		<Innovation>4</Innovation>
@@ -176,7 +176,7 @@
 		<CodeArt>0.6</CodeArt>
 	   </Feature>
 	   <Feature Research="QHD Video Support">
-		<Name>Peformance</Name>
+		<Name>Performance</Name>
 		<Category>System</Category>
 		<Description>Performance update for your tech!</Description>
 		<DevTime>4</DevTime>
