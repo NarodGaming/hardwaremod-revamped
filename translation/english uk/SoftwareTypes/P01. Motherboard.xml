@@ -73,11 +73,11 @@
   <string name="agp8-desc">A bus dedicated to graphics adapters x8.</string>
   <string name="pcie">PCI Express</string>
   <string name="pcie-desc">A much faster version of PCI, must match the Graphics Cards being used.</string>
-  <string name="2sli">SLl Support</string>
+  <string name="2sli">SLI Support</string>
   <string name="2sli-desc">Allows for the use of two graphics cards.</string>
-  <string name="3sli">Triple SLl</string>
+  <string name="3sli">Triple SLI</string>
   <string name="3sli-desc">Now you can fit three graphics cards.</string>
-  <string name="4sli">Quad SLl</string>
+  <string name="4sli">Quad SLI</string>
   <string name="4sli-desc">FOUR TIMES THE GRPAHICS!</string>
   <string name="ps2">PS/2</string>
   <string name="ps2-desc">Allows you to plug in peripherals such as a Keyboard or Mouse.</string>

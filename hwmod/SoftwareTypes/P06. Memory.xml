@@ -68,7 +68,7 @@
 	<Feature From="DDR2" Vital="TRUE">
 		<Name>DDR3</Name>
 		<Category>Physical</Category>
-		<Description>More speed with lower voltage x2</Description>
+		<Description>More speed with lower voltage, twice</Description>
 		<Unlock>2007</Unlock>
 		<DevTime>18</DevTime>
 		<Innovation>35</Innovation>
@@ -90,7 +90,7 @@
 	<Feature From="DDR3" Vital="TRUE">
 		<Name>DDR4</Name>
 		<Category>Physical</Category>
-		<Description>More speed with lower voltage x3</Description>
+		<Description>More speed with lower voltage, thrice</Description>
 		<Unlock>2014</Unlock>
 		<DevTime>24</DevTime>
 		<Innovation>60</Innovation>
@@ -101,7 +101,7 @@
 	<Feature From="DDR4" Vital="TRUE">
 		<Name>DDR5</Name>
 		<Category>Physical</Category>
-		<Description>More speed with lower voltage x4</Description>
+		<Description>More speed with lower voltage, times four</Description>
 		<Unlock>2018</Unlock>
 		<DevTime>30</DevTime>
 		<Innovation>70</Innovation>

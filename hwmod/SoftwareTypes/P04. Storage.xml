@@ -210,7 +210,7 @@
     <Feature From="Heads" Vital="TRUE">
       <Name>Auto-moving</Name>
       <Category>Physical</Category>
-      <Description>Heads can autoposition themselves</Description>
+      <Description>Heads that can autoposition themselves</Description>
       <Unlock>1973</Unlock>
       <DevTime>15</DevTime>
       <Innovation>3</Innovation>
@@ -222,7 +222,7 @@
     <Feature From="Auto-moving" Vital="TRUE">
       <Name>Film Heads</Name>
       <Category>Physical</Category>
-      <Description>Thin Film Heads, the next step in making harddrives smaller</Description>
+      <Description>Thin Film Heads, the next step in making hard drives smaller</Description>
       <Unlock>1979</Unlock>
       <DevTime>9</DevTime>
       <Innovation>12</Innovation>

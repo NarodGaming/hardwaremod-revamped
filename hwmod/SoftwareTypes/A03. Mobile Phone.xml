@@ -4,7 +4,7 @@
 	<Description>Make a mobile phone to sell to the masses!</Description>
 	<Categories>
 		<Category Name="Default">
-			<Description>A phone. What more could you want.</Description>
+			<Description>A phone. What more could you want?</Description>
 			<Unlock>2000</Unlock>
 			<Popularity>0.9</Popularity>
 			<TimeScale>1</TimeScale>
@@ -55,7 +55,7 @@
 		<Feature Vital="TRUE">
 			<Name>Speaker</Name>
 			<Category>Audio</Category>
-			<Description>Would make sense to have these with the amp? No? It's your phone not mine...</Description>
+			<Description>Would make sense to have these with the amp? No? It's your phone, not mine.</Description>
 			<DevTime>2</DevTime>
 			<Unlock>0</Unlock>
 			<Innovation>1</Innovation>
@@ -67,7 +67,7 @@
 		<Feature From="Speaker">
 			<Name>Stereo Speakers</Name>
 			<Category>Audio</Category>
-			<Description>Two speakers are better than one. (in theory)</Description>
+			<Description>Two speakers are better than one (in theory).</Description>
 			<DevTime>4</DevTime>
 			<Unlock>2014</Unlock>
 			<Innovation>3</Innovation>
@@ -78,7 +78,7 @@
 		<Feature Vital="TRUE">
 			<Name>3.5mm Jack</Name>
 			<Category>Audio</Category>
-			<Description>For listening to music through headphones (not included)</Description>
+			<Description>For listening to music through headphones (not included).</Description>
 			<DevTime>1</DevTime>
 			<Unlock>0</Unlock>
 			<Innovation>1</Innovation>
@@ -123,7 +123,7 @@
 		<Feature From="Monochrome Display">
 			<Name>LCD TFT Display</Name>
 			<Category>Physical</Category>
-			<Description>Yay for colours, its a shame theres about 2 degrees of viewing angles!</Description>
+			<Description>Yay for colours, its a shame there's about 2 degrees of viewing angle!</Description>
 			<Unlock>2003</Unlock>
 			<DevTime>4</DevTime>
 			<Innovation>3</Innovation>
@@ -156,7 +156,7 @@
 		<Feature Forced="TRUE">
 			<Name>ARM SOC</Name>
 			<Category>Physical</Category>
-			<Description>The brains of the phone. The thing that does it all. 42.</Description>
+			<Description>The brain of the phone. The thing that does it all. 42.</Description>
 			<Unlock>0</Unlock>
 			<DevTime>2</DevTime>
 			<Innovation>1</Innovation>
