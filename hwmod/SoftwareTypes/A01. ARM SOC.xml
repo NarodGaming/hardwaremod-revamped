@@ -65,7 +65,7 @@
        <Feature From="Dual Core">
         <Name>Tri Core</Name>
         <Category>System</Category>
-        <Description>Three things at once!</Description>
+        <Description>Three things at a time!</Description>
         <DevTime>5</DevTime>
         <Unlock>2004</Unlock>
         <Innovation>4</Innovation>
@@ -240,6 +240,18 @@
         <CodeArt>1</CodeArt>
 		<Dependency Software="Low-Powered Memory">LPDDR4</Dependency>
        </Feature>
+	   <Feature From="LPDDR4 Support">
+		<Name>LPDDR4X Support</Name>
+		<Category>System</Category>
+		<Description>Brand new RAM just for phones! Speedy!</Description>
+		<DevTime>6</DevTime>
+		<Unlock>2017</Unlock>
+		<Innovation>5</Innovation>
+		<Stability>4</Stability>
+		<Usability>5</Usability>
+		<CodeArt>1</CodeArt>
+		<Dependency Software="Low-Powered Memory">LPDDR4X</Dependency>
+	   </Feature>
        <Feature Vital="TRUE">
         <Name>QuickCharge Technology</Name>
         <Category>System</Category>

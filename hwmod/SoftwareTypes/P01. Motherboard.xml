@@ -142,7 +142,7 @@
     <Feature From="CPU Socket">
       <Name>Dual Socket</Name>
       <Category>Physical</Category>
-      <Description>TWICE THE PROCESSORS</Description>
+      <Description>DOUBLE THE PROCESSORS</Description>
       <Unlock>1989</Unlock>
       <DevTime>9</DevTime>
       <Innovation>4</Innovation>
@@ -153,7 +153,7 @@
     <Feature From="Dual Socket">
       <Name>Quad Socket</Name>
       <Category>Physical</Category>
-      <Description>FOUR THE PROCESSORS</Description>
+      <Description>EVEN MORE PROCESSORS</Description>
       <Unlock>1999</Unlock>
       <DevTime>15</DevTime>
       <Innovation>10</Innovation>
@@ -283,7 +283,7 @@
     <Feature From="Cable" Vital="TRUE">
       <Name>Fiber</Name>
       <Category>Network</Category>
-      <Description>FASTER THAN LIGHT: FTL</Description>
+      <Description>FASTER THAN LIGHT*: FTL  *is actually just light</Description>
       <Unlock>2010</Unlock>
       <DevTime>36</DevTime>
       <Innovation>32</Innovation>
@@ -295,7 +295,7 @@
     <Feature Forced="TRUE">
       <Name>RAM Slots (DRAM)</Name>
       <Category>Physical</Category>
-      <Description>Somewhere to shove the memory. (coming soon)</Description>
+      <Description>Somewhere to shove the memory.</Description>
       <Unlock>0</Unlock>
       <DevTime>9</DevTime>
       <Innovation>1</Innovation>
@@ -441,7 +441,7 @@
     <Feature From="Triple SLI" Vital="FALSE">
       <Name>Quad SLI</Name>
       <Category>3D</Category>
-      <Description>FOUR THE GRPAHIC!S</Description>
+      <Description>EVEN MORE GRPAHIC!S</Description>
       <Unlock>2009</Unlock>
       <DevTime>24</DevTime>
       <Innovation>16</Innovation>
@@ -475,7 +475,7 @@
     <Feature Vital="TRUE">
       <Name>Connectors</Name>
       <Category>Physical</Category>
-      <Description>Wow! Plug all your stuffs in!</Description>
+      <Description>Wow! Plug all your stuff in!</Description>
       <Unlock>0</Unlock>
       <DevTime>3</DevTime>
       <Innovation>1</Innovation>
@@ -591,7 +591,7 @@
     <Feature From="Universal Bus 3">
       <Name>Universal Bus 3.1</Name>
       <Category>System</Category>
-      <Description></Description>
+      <Description>USB 3, now available in green!</Description>
       <Unlock>2013</Unlock>
       <DevTime>12</DevTime>
       <Innovation>8</Innovation>
@@ -614,7 +614,7 @@
     <Feature Vital="TRUE">
       <Name>Indicators</Name>
       <Category>Physical</Category>
-      <Description></Description>
+      <Description>Flashly lights. Oooh.</Description>
       <Unlock>1970</Unlock>
       <DevTime>2</DevTime>
       <Innovation>1</Innovation>

@@ -1,7 +1,7 @@
 <SoftwareType>
   <Name>Graphics Card</Name>
   <Category>Hardware</Category>
-  <Description>Create your own PCI Graphics Card</Description>
+  <Description>Create your own Graphics Card</Description>
   <Categories>
     <Category Name="Default">
       <Description>Still needs some balancing (v0.8+)</Description>

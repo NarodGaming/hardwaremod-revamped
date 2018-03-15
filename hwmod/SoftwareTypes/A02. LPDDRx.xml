@@ -98,6 +98,17 @@
 			<Stability>3</Stability>
 			<CodeArt>1</CodeArt>
 		</Feature>
+		<Feature From="LPDDR4">
+			<Name>LPDDR4X</Name>
+			<Category>System</Category>
+			<Description>LPDDR4X. A new phone standard for speed.</Description>
+			<DevTime>6</DevTime>
+			<Unlock>2017</Unlock>
+			<Innovation>3</Innovation>
+			<Usability>4</Usability>
+			<Stability>4</Stability>
+			<CodeArt>1</CodeArt>
+		</Feature>
 		<Feature Forced="TRUE">
 			<Name>Battery Mode</Name>
 			<Category>System</Category>

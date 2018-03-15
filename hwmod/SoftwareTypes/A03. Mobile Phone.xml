@@ -123,7 +123,7 @@
 		<Feature From="Monochrome Display">
 			<Name>LCD TFT Display</Name>
 			<Category>Physical</Category>
-			<Description>Yay for colours, its a shame there's about 2 degrees of viewing angle!</Description>
+			<Description>Yay for colours, comes with very poor viewing angles!</Description>
 			<Unlock>2003</Unlock>
 			<DevTime>4</DevTime>
 			<Innovation>3</Innovation>
@@ -156,7 +156,7 @@
 		<Feature Forced="TRUE">
 			<Name>ARM SOC</Name>
 			<Category>Physical</Category>
-			<Description>The brain of the phone. The thing that does it all. 42.</Description>
+			<Description>The brain of the phone. The thing that does it all.</Description>
 			<Unlock>0</Unlock>
 			<DevTime>2</DevTime>
 			<Innovation>1</Innovation>
